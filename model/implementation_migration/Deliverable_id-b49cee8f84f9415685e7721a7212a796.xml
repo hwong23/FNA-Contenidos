@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Descripción de la vista Funcional actual"
     id="id-b49cee8f84f9415685e7721a7212a796"
-    documentation="### Descripción de la vista Funcional actual&#xD;&#xA;...&#xD;&#xA;"/>
+    documentation="### Descripción de la vista Funcional actual&#xD;&#xA;...&#xD;&#xA;">
+  <properties
+      key="Asignado"
+      value="HWO; Darío"/>
+</archimate:Deliverable>
