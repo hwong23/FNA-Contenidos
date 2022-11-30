@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presentación del Análisis de Madurez SOA del FNA"
     id="id-c96a441a4074411d95c35382fadf033b"
-    documentation="### Presentación del Análisis de Madurez SOA del FNA&#xD;&#xA;...&#xD;&#xA;"/>
+    documentation="### Presentación del Análisis de Madurez SOA del FNA&#xD;&#xA;...&#xD;&#xA;">
+  <properties
+      key="Asignado"
+      value="HWO"/>
+</archimate:Deliverable>

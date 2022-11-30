@@ -2,11 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PR1. SOA Actual"
     id="id-d2d0d4cd8d194916985d4a283ede87ac"
-    documentation="## PR1 SOA Actual&#xD;&#xA;... &#xD;&#xA;">
-  <properties
-      key="Prop1"
-      value="HWO"/>
-  <properties
-      key="Prop2"
-      value="JWO"/>
-</archimate:Deliverable>
+    documentation="## PR1 SOA Actual&#xD;&#xA;... &#xD;&#xA;"/>
