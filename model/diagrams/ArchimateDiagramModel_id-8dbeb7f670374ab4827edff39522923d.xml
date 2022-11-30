@@ -169,7 +169,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f13b5da4752345e490b0c9b09476c9a9"
-        targetConnections="id-c972acd2cd5643b2b89db9745ae800d3 id-719eafb532f349aa89907fcbbf196b39 id-5b5c859503234e15824e7dd3837bc2a5 id-630368e04e6149049cd49b69397c3def">
+        targetConnections="id-c972acd2cd5643b2b89db9745ae800d3 id-719eafb532f349aa89907fcbbf196b39 id-5b5c859503234e15824e7dd3837bc2a5 id-630368e04e6149049cd49b69397c3def"
+        fillColor="#408080">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-3ae21fff31414ae2a994661a68f12365"
@@ -214,7 +215,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5a1258368ae342558ac29a37eeda9201"
-          targetConnections="id-3ae21fff31414ae2a994661a68f12365">
+          targetConnections="id-3ae21fff31414ae2a994661a68f12365"
+          fillColor="#008080">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-c972acd2cd5643b2b89db9745ae800d3"
@@ -236,7 +238,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e8488387736a4f9cb42057155a663317"
-          targetConnections="id-10cf366f445e43d6906b507769e8bbbc">
+          targetConnections="id-10cf366f445e43d6906b507769e8bbbc"
+          fillColor="#008080">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-5b5c859503234e15824e7dd3837bc2a5"
@@ -258,7 +261,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8411d112c08947b7940afeffc04e0d0a"
-          targetConnections="id-9b92bafe74374d6589d461b6d6293718">
+          targetConnections="id-9b92bafe74374d6589d461b6d6293718"
+          fillColor="#008080">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-719eafb532f349aa89907fcbbf196b39"
@@ -421,7 +425,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-2da5b83a2f8d40aebb1771c210d01968"
       textAlignment="1"
-      content="Plan de Implementación del Proyecto SOA FNA&#xD;&#xA;&#xD;&#xA;Nov 2022 a Ene 2023&#xD;&#xA;">
+      content="Plan de Implementación del Proyecto SOA FNA&#xD;&#xA;&#xD;&#xA;Nov 2022 a Ene 2023&#xD;&#xA;ver 0.2">
     <bounds
         x="24"
         y="12"
