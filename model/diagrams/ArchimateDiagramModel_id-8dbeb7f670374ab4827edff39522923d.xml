@@ -425,11 +425,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-2da5b83a2f8d40aebb1771c210d01968"
       textAlignment="1"
-      content="Plan de Implementación del Proyecto SOA FNA&#xD;&#xA;&#xD;&#xA;Nov 2022 a Ene 2023&#xD;&#xA;ver 0.2">
+      content="Plan de Implementación del Proyecto SOA FNA&#xD;&#xA;&#xD;&#xA;Nov 2022 a Ene 2023&#xD;&#xA;">
     <bounds
         x="24"
         y="12"
         width="265"
-        height="80"/>
+        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>
