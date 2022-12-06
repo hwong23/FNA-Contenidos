@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementación SOA FNA. 1"
-    id="id-8dbeb7f670374ab4827edff39522923d">
+    id="id-8dbeb7f670374ab4827edff39522923d"
+    documentation="23 dic F1.1 y 1.2&#xD;&#xA;20 dic aprobación&#xD;&#xA;15 días (10 laborales) PR1, PR2... PR6&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Respta. secuencial&#xD;&#xA;10 / 6 = 2 días por PR&#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e47ec8bd4be541eda150a37a6dd55cb0"
