@@ -1,9 +1,0 @@
-<archimate:Deliverable
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Blueprint de servicios"
-    id="id-1567219b6d8b4ce1bacd3de5478e717e"
-    documentation="(organización de empresa: vicepresidencia, …. Ponemos todas, pero nos enfocamos en la vicepresidencias**&#xD;&#xA;--Zonas de negocio&#xD;&#xA;--Servicios independientes (debería tener)&#xD;&#xA;--Conectores (necesidades de integración)&#xD;&#xA;--Procesos negocio (BP): pocesos x servicios: seleccionados por criterios de la consultoria (productos, objetivos...)&#xD;&#xA;&#xD;&#xA;***Conectar esta vista con las otras, ej., la tecnológica: qué tecnología me ofrecen... (ojo, si no los tengo)&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="Asignado"
-      value="HWO; Darío"/>
-</archimate:Deliverable>
