@@ -116,15 +116,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-12e3e38182864fffbd14453c12dc8a23"
-          source="id-20f269102dce4a45899f1b60ade2eb71"
-          target="id-f65369fb66d94ebe865f61d0a85914ee">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-e018291698184746b3a8d9abbd76a863.xml#id-e018291698184746b3a8d9abbd76a863"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0da3eb65f33047b485683db7d1294a26"
           source="id-20f269102dce4a45899f1b60ade2eb71"
           target="id-1f6256431d3b4186b549c6771cbe5b30">
@@ -139,8 +130,7 @@
           height="276"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-f65369fb66d94ebe865f61d0a85914ee"
-          targetConnections="id-12e3e38182864fffbd14453c12dc8a23">
+          id="id-f65369fb66d94ebe865f61d0a85914ee">
         <bounds
             x="12"
             y="48"
