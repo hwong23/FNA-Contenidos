@@ -344,6 +344,11 @@
           id="id-f2a0e0a507e3455f8f5cdbb14c1b7f03"
           source="id-aefedc3a28794731886f1107d5bdfd8b"
           target="id-e5d667d9e59041788201647fce7c4885">
+        <bendpoints
+            startX="18"
+            startY="-222"
+            endX="-48"
+            endY="121"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-5f81f24a3c6748a2b370939cc7b6f51d.xml#id-5f81f24a3c6748a2b370939cc7b6f51d"/>
