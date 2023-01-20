@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementación SOA FNA. 1"
     id="id-abb908aceb5849769a0f7415cce5183a"
-    documentation="23 dic F1.1 y 1.2&#xD;&#xA;20 dic aprobación&#xD;&#xA;15 días (10 laborales) PR1, PR2... PR6&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Respta. secuencial&#xD;&#xA;10 / 6 = 2 días por PR&#xD;&#xA;&#xD;&#xA;">
+    documentation="Noviembre/22. Preparación e inicio&#xD;&#xA;* Nov - Dic -2022. Situación Actual&#xD;&#xA;* Dic -2022. Vigilancia Tecnológica&#xD;&#xA;* Ene-2023. Estado Objetivo FNA&#xD;&#xA;* Feb-2023. Hoja de Ruta&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;23 dic F1.1 y 1.2&#xD;&#xA;20 dic aprobación&#xD;&#xA;15 días (10 laborales) PR1, PR2... PR6&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Respta. secuencial&#xD;&#xA;10 / 6 = 2 días por PR&#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d06c4f3d6fbf451992d0e0957e718bb9"
@@ -502,5 +502,17 @@
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-3eaae458db024c47857bed21001650f9.xml#id-3eaae458db024c47857bed21001650f9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-4c94e4d0eb6142168d4d41a319d3af7c">
+    <bounds
+        x="24"
+        y="828"
+        width="217"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-b7d5f0bfa81e4219a971a6f847075063.xml#id-b7d5f0bfa81e4219a971a6f847075063"/>
   </children>
 </archimate:ArchimateDiagramModel>
