@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="extiende"
+    id="id-4cda1b024e014bd0b2cbac4683470b48">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c943882836cb49c189ed009ec0da0a17.xml#id-c943882836cb49c189ed009ec0da0a17"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-e25c0b7050904f95b3ec70072e6892d7.xml#id-e25c0b7050904f95b3ec70072e6892d7"/>
+</archimate:ServingRelationship>
