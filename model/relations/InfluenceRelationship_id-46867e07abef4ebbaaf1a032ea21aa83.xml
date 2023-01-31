@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="problemáticas actuales"
+    id="id-46867e07abef4ebbaaf1a032ea21aa83">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-1b579e0c7cc64bc79679da74377d0834.xml#id-1b579e0c7cc64bc79679da74377d0834"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-a8353fbce8a2462cbfeeb3256c2644ae.xml#id-a8353fbce8a2462cbfeeb3256c2644ae"/>
+</archimate:InfluenceRelationship>

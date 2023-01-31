@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="cumple"
+    id="id-eef8f692ba4644538c0dbb7d9e388e23">
+  <source
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-af787feaa6574d32a551ebea712da14e.xml#id-af787feaa6574d32a551ebea712da14e"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-5c9d1cedc4594002b0b7f61f8b13122c.xml#id-5c9d1cedc4594002b0b7f61f8b13122c"/>
+</archimate:FlowRelationship>
