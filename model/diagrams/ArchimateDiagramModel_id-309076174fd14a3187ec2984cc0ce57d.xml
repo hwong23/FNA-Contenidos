@@ -77,13 +77,14 @@
           target="id-8c78dca0d642487d8e86929e074f8289">
         <bendpoints
             startX="36"
-            startY="81"
-            endX="-156"
-            endY="-147"/>
+            startY="69"
+            endX="-186"
+            endY="-198"/>
         <bendpoints
-            startX="192"
-            startY="81"
-            endY="-147"/>
+            startX="216"
+            startY="69"
+            endX="-6"
+            endY="-198"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-7910f2e777e14e128dcd37fc105fab84.xml#id-7910f2e777e14e128dcd37fc105fab84"/>
@@ -156,12 +157,33 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8c78dca0d642487d8e86929e074f8289"
-      targetConnections="id-51d2e5d959a94fc582fac7858f1867cb">
+      targetConnections="id-51d2e5d959a94fc582fac7858f1867cb id-b0085836eb0542e2ad33b899d6cdc6db">
     <bounds
-        x="612"
+        x="588"
         y="540"
-        width="144"
-        height="55"/>
+        width="252"
+        height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-76f8ccb08740434da5867f0a36f9744f">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b0085836eb0542e2ad33b899d6cdc6db"
+          source="id-76f8ccb08740434da5867f0a36f9744f"
+          target="id-8c78dca0d642487d8e86929e074f8289">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-6e2f4d88e92b4481891c9f86a61e6977.xml#id-6e2f4d88e92b4481891c9f86a61e6977"/>
+      </sourceConnections>
+      <bounds
+          x="36"
+          y="48"
+          width="192"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-b2d78bd1c2d64db2b5bd20a5c7556554.xml#id-b2d78bd1c2d64db2b5bd20a5c7556554"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationInteraction"
         href="ApplicationInteraction_id-f77c4dc9ab8c4ff09ac61a4d5b663485.xml#id-f77c4dc9ab8c4ff09ac61a4d5b663485"/>

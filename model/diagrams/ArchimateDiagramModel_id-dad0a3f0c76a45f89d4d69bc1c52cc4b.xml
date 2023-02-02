@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b75c0f7dc1cc401abba9f35a794c69ef"
       textAlignment="1"
-      content="Objetivos del Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;versión 0.2&#xA;">
+      content="Objetivos del Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;versión 0.4&#xA;">
     <bounds
         x="12"
         y="12"
@@ -100,5 +100,41 @@
         y="312"
         width="312"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-43ca7b333f5a42d9ae74e437209a1424">
+    <bounds
+        x="12"
+        y="480"
+        width="220"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-8538668365b644438f1ccba015509858.xml#id-8538668365b644438f1ccba015509858"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c56bbb77d9954b45a3a0c269367e1f75">
+    <bounds
+        x="516"
+        y="480"
+        width="220"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-b347b3c662414983994fe8ec89033860.xml#id-b347b3c662414983994fe8ec89033860"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b3cdcfe971c94207abf67854a4a00d61">
+    <bounds
+        x="264"
+        y="480"
+        width="220"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-454cec8780394f349b9eeab81268253b.xml#id-454cec8780394f349b9eeab81268253b"/>
   </children>
 </archimate:ArchimateDiagramModel>
