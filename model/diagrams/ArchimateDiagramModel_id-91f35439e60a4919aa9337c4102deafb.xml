@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entregables"
-    id="id-91f35439e60a4919aa9337c4102deafb">
+    id="id-91f35439e60a4919aa9337c4102deafb"
+    documentation="arq orientadas ss soa, ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d4040b1ca01a4568938b9214bae731ee">
