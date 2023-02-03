@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="entrevistas y decisiones diseño"
+    id="id-17f0da4caa1f4d4f95ade9408ad84cf7">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-3a761e2e2b5a482ba36c9143a73aa197.xml#id-3a761e2e2b5a482ba36c9143a73aa197"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-a8353fbce8a2462cbfeeb3256c2644ae.xml#id-a8353fbce8a2462cbfeeb3256c2644ae"/>
+</archimate:InfluenceRelationship>
