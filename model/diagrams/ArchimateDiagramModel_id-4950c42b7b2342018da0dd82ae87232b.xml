@@ -326,9 +326,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-37a490e1db6e4b3cb48626d7f117067f">
     <bounds
-        x="682"
-        y="287"
-        width="120"
+        x="666"
+        y="282"
+        width="135"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Product"
@@ -338,9 +338,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7a7db099eae04cde8f3d7323e00c225b">
     <bounds
-        x="682"
-        y="389"
-        width="120"
+        x="666"
+        y="384"
+        width="135"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -350,9 +350,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8646c7857388449bb5e25ce5b5c60fe6">
     <bounds
-        x="682"
-        y="497"
-        width="120"
+        x="666"
+        y="492"
+        width="135"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -404,9 +404,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-61a5f260762f4755a009d2209f1faaf1">
     <bounds
-        x="682"
-        y="617"
-        width="120"
+        x="666"
+        y="612"
+        width="135"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"

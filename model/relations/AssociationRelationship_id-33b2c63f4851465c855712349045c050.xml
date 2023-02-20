@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salida"
+    id="id-33b2c63f4851465c855712349045c050">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-96e92db1e7e549e594d875f3453a0d82.xml#id-96e92db1e7e549e594d875f3453a0d82"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-80e77e2fe4f2448bae5da952166440db.xml#id-80e77e2fe4f2448bae5da952166440db"/>
+</archimate:AssociationRelationship>
