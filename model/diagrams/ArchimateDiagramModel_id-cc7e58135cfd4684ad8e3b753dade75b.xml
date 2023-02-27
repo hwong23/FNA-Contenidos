@@ -243,7 +243,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e559699f06554dd0b30337b8b6e60368"
-      targetConnections="id-f86e91edce754697958cb3742a7c3c26">
+      targetConnections="id-45927a3211c349cd97e48ffadd453ccb id-f86e91edce754697958cb3742a7c3c26">
     <bounds
         x="516"
         y="492"
@@ -283,7 +283,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-459d1530cba84fb198e1121e8ac7997c"
       textAlignment="1"
-      content="Disciplina">
+      content="Disciplinas">
     <bounds
         x="12"
         y="60"
@@ -300,5 +300,26 @@
         y="60"
         width="125"
         height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-662c9fdef7e142e3933d797b873470e1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-45927a3211c349cd97e48ffadd453ccb"
+        source="id-662c9fdef7e142e3933d797b873470e1"
+        target="id-e559699f06554dd0b30337b8b6e60368">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-7cbb1444fbde4f0dbf318f537d28bd2f.xml#id-7cbb1444fbde4f0dbf318f537d28bd2f"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="492"
+        width="426"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-aec86005e8174fb99a03e8a03e5b9160.xml#id-aec86005e8174fb99a03e8a03e5b9160"/>
   </children>
 </archimate:ArchimateDiagramModel>
