@@ -1,10 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="técnica elegida"
     id="id-8264c403ff0747f6846936c7616a1d17">
   <source
-      xsi:type="archimate:Capability"
-      href="Capability_id-8aee25f178de4373bfdf7271e60a5fee.xml#id-8aee25f178de4373bfdf7271e60a5fee"/>
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-ca47e2a129e34643a1bb92dce414c363.xml#id-ca47e2a129e34643a1bb92dce414c363"/>
   <target
       xsi:type="archimate:Capability"
       href="Capability_id-d150167d756b4f86bf8ff2c7060f1139.xml#id-d150167d756b4f86bf8ff2c7060f1139"/>

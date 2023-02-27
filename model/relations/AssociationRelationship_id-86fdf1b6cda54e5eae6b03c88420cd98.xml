@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="alinear"
     id="id-86fdf1b6cda54e5eae6b03c88420cd98">
   <source
       xsi:type="archimate:Capability"
