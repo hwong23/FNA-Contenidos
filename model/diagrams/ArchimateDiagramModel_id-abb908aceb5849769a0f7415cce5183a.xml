@@ -246,7 +246,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-41e3e18709c14b59b5a1bae96ce4637b"
         targetConnections="id-5d8f1a7ca43e44b1ad2b836d526da006"
-        fillColor="#008080">
+        textAlignment="1"
+        fillColor="#ffe0e0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-68464b5b6fa04b569b231e4b27db25ac"
@@ -283,7 +284,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d7001af829db4767a11da201adb6ab53"
           targetConnections="id-68464b5b6fa04b569b231e4b27db25ac"
-          fillColor="#008080">
+          textAlignment="1"
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="48"
@@ -297,7 +299,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-68a764cd7ece4f6581d2823162025016"
           targetConnections="id-f7da171053174eacbb9345ab7e7ea635"
-          fillColor="#008080">
+          textAlignment="1"
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="120"
@@ -315,7 +318,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aefedc3a28794731886f1107d5bdfd8b"
         targetConnections="id-825f8cd948024c97bc5b95e31e47ab1d"
-        fillColor="#008080">
+        textAlignment="1"
+        fillColor="#ffe0e0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f2a0e0a507e3455f8f5cdbb14c1b7f03"
@@ -366,7 +370,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-15d928a653394092aa3f1e3690d1e566"
           targetConnections="id-08174460e72b4e26bfe724a605af2591"
-          fillColor="#008080">
+          textAlignment="1"
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="48"
@@ -380,7 +385,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-93edf551b8414d598b93ff554314aff1"
           targetConnections="id-8aae8f736bdc428482f5fa032add2789"
-          fillColor="#008080">
+          textAlignment="1"
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="192"
@@ -394,7 +400,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-cd211fb52f75470faae276998623cfcc"
           targetConnections="id-66640888e73349a38627e2640cae7343"
-          fillColor="#008080">
+          textAlignment="1"
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="120"
@@ -411,7 +418,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-00b00a85cebb464188106e68326d26ab"
-        targetConnections="id-ccee2007e0bc4a3b81bc2db2ddd16546">
+        targetConnections="id-ccee2007e0bc4a3b81bc2db2ddd16546"
+        fillColor="#008080">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d770d82599984ff2a1ba5d444f71defe"
@@ -447,7 +455,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-37ade6422a54498db474d53b89dce2c6"
-          targetConnections="id-d770d82599984ff2a1ba5d444f71defe">
+          targetConnections="id-d770d82599984ff2a1ba5d444f71defe"
+          fillColor="#008080">
         <bounds
             x="12"
             y="120"
@@ -461,7 +470,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7aef86e3f388417a940ed8ec3482afd5"
           targetConnections="id-aeea7e4775584e718790fe14a914c0bc"
-          fillColor="#ffe0e0">
+          fillColor="#008080">
         <bounds
             x="12"
             y="48"
@@ -483,7 +492,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-15b101ba50bc4ef8bd0f337a80567e9a"
       textAlignment="1"
-      content="Plan de Implementación del Proyecto SOA FNA&#xD;&#xA;Nov 2022 a Ene 2023&#xD;&#xA;&#xD;&#xA;Ver 1.20">
+      content="Plan de Implementación del Proyecto SOA FNA&#xD;&#xA;Nov 2022 a Ene 2023&#xD;&#xA;&#xD;&#xA;Ver 1.32">
     <bounds
         x="24"
         y="12"
