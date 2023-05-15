@@ -198,9 +198,9 @@
         targetConnections="id-35f882e6c8c9452392ccf140df988270">
       <bounds
           x="24"
-          y="36"
-          width="120"
-          height="85"/>
+          y="48"
+          width="145"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-15fd383b779e4adea7ffa3674aa0b987.xml#id-15fd383b779e4adea7ffa3674aa0b987"/>
@@ -213,7 +213,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-8d80cc64c3ba497298209251ea3cb504"
       textAlignment="1"
-      content="Proceso de Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;versión 0.3&#xA;">
+      content="Proceso de Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;versión 0.4&#x9;&#xA;">
     <bounds
         x="-48"
         y="24"
