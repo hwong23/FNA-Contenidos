@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trabajo"
+    id="id-45bb5421473948eb9795a99bf68a9d62">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-636db0cb272441ee9ff2b4b0229bab63.xml#id-636db0cb272441ee9ff2b4b0229bab63"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-4db6d647b4f84fabbaa7f0962f98964e.xml#id-4db6d647b4f84fabbaa7f0962f98964e"/>
+</archimate:AccessRelationship>
