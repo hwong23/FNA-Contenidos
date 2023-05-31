@@ -3,12 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Segmento FNA. 2. Fase II"
     id="id-95ce2203e6c4412e88b8ea51d6d76b86"
-    documentation="AS026-Gestión de Autenticación    &#xA;AS034-ConsultarestadocuentaCartera&#xA;ASXX3-RegistrarRecaudoObligacion &#xA;">
+    documentation="Vista de Contexto. v0.18&#xA;Detalle de los ítems de arquitectura impactados por el proyecto.&#xA;&#xA;E-Service, Fase II&#xA;Mayo 2023&#xA;&#xA;PRY01. Gobierno SOA&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-2ab2a2caf42c4f478562223133932a56"
       textAlignment="1"
-      content="E-Service, Fase II&#xA;Mayo 2023&#xA;&#xD;&#xA;PRY01. Gobierno SOA&#xA;Vista de Contexto. Detalle de los ítems de arquitectura impactados por el proyecto.&#xA;&#xD;&#xA;v0.16&#xA;">
+      content="E-Service, Fase II&#xA;Mayo 2023&#xA;&#xD;&#xA;PRY01. Gobierno SOA&#xA;Vista de Contexto. Detalle de los ítems de arquitectura impactados por el proyecto.&#xA;&#xD;&#xA;v0.18&#xA;">
     <bounds
         x="12"
         y="-12"
@@ -147,7 +147,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d543778463a649d38ec88c8fc8589e5c"
-        targetConnections="id-82e61117ef394cf3b183155cfce1224d">
+        targetConnections="id-82e61117ef394cf3b183155cfce1224d"
+        fillColor="#c0c0c0">
       <bounds
           x="192"
           y="132"
@@ -160,7 +161,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8bb5e3c7e35a4a8e9987b1c74b03ffce"
-        targetConnections="id-fb84395f37394cbabbc9d04138e3f2d7">
+        targetConnections="id-fb84395f37394cbabbc9d04138e3f2d7"
+        fillColor="#c0c0c0">
       <bounds
           x="192"
           y="48"
@@ -572,5 +574,29 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-ea2cf8d8ac79479889087200d8d342f7.xml#id-ea2cf8d8ac79479889087200d8d342f7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ff29d5604da2453facc03953a9386b19"
+      textAlignment="1"
+      fillColor="#d5d5d5"
+      borderType="1">
+    <bounds
+        x="24"
+        y="1272"
+        width="49"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-37344de52d3e4851ad4c33034873e9d8"
+      textAlignment="1"
+      content="Diagnósticos desactivados para la fase actual del trabajo de arquitectura."
+      borderType="2">
+    <bounds
+        x="84"
+        y="1272"
+        width="517"
+        height="25"/>
   </children>
 </archimate:ArchimateDiagramModel>
