@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ASXX3-RegistrarRecaudoObligacion"
+    id="id-e97ce317bd8f4f2d948bc3dda672cef2">
+  <properties
+      key="aplicacionProveedora"
+      value="COBIS"/>
+</archimate:ApplicationService>
