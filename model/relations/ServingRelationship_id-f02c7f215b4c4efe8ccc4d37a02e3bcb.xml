@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="crea"
+    id="id-f02c7f215b4c4efe8ccc4d37a02e3bcb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-da6b92722ca64c9aa8b65e9da17efc5e.xml#id-da6b92722ca64c9aa8b65e9da17efc5e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-63a4bf2b19cf4fc7824b87a2deb61756.xml#id-63a4bf2b19cf4fc7824b87a2deb61756"/>
+</archimate:ServingRelationship>

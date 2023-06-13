@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gobierno SOA. 2n"
+    name="Gobierno SOA. 2n. Modelo"
     id="id-309076174fd14a3187ec2984cc0ce57d">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -157,7 +157,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8c78dca0d642487d8e86929e074f8289"
-      targetConnections="id-51d2e5d959a94fc582fac7858f1867cb id-b0085836eb0542e2ad33b899d6cdc6db">
+      targetConnections="id-b0085836eb0542e2ad33b899d6cdc6db id-51d2e5d959a94fc582fac7858f1867cb">
     <bounds
         x="588"
         y="540"

@@ -1,12 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="diagnostica"
-    id="id-4734e0e290d64993b1496448e0939ed3">
+    id="id-57bb73eefe7245af9521066849019d62">
   <source
-      xsi:type="archimate:BusinessEvent"
-      href="BusinessEvent_id-e4f885be68534e30bae1cc4bdc920e40.xml#id-e4f885be68534e30bae1cc4bdc920e40"/>
-  <target
       xsi:type="archimate:BusinessInteraction"
       href="BusinessInteraction_id-af787feaa6574d32a551ebea712da14e.xml#id-af787feaa6574d32a551ebea712da14e"/>
+  <target
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_id-0c1325c6be95411585897e2ef63948f6.xml#id-0c1325c6be95411585897e2ef63948f6"/>
 </archimate:FlowRelationship>
