@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gobierno SOA. 2n1. Modelo"
-    id="id-9fb7fefdff9c4e26b0e7c0ac62298c9c">
+    id="id-9fb7fefdff9c4e26b0e7c0ac62298c9c"
+    documentation="**Flujo de Trabajo del Modelo de Gobierno SOA del FNA**. La Oficina de Arquitectura del FNA (LOAF) es la responsable de realizar los análisis previos, de nivel 100 (donde 500 es el máximo nivel de detalle) que respondan a los criterios de Complejidad, Impacto en el dominio, y Costo-Beneficio (C/B), que libere rápidamente.&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-277e4be9160f492a8cd34d1d1280b24e"
