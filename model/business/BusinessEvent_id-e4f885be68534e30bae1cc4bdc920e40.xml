@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Evento de cambio arquitectura SOA"
-    id="id-e4f885be68534e30bae1cc4bdc920e40"/>
+    id="id-e4f885be68534e30bae1cc4bdc920e40"
+    documentation="Sucede un evento en que la arquitectura SOA, o alguna de los componentes de la arquitectura de referencia del FNA es imputado por un cambio.&#xA;&#xA;El cambio puede ser motivado por un requerimiento de arquitectura (TOGAF), o una necesidad de"/>
