@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oficina Arquitectura FNA"
-    id="id-af787feaa6574d32a551ebea712da14e"/>
+    id="id-af787feaa6574d32a551ebea712da14e"
+    documentation="La ofifina de arquitetura del FNA (LOAF) recibe (y puede objetar) el requerimiento de arquitecura.  La objeción de un requerimiento puede ser discutido por el Comité de Arquitectura. Inmediatamente aceptado el requerimiento, los arquitectos en cada dominio deben iniciar los análisis sobre modelos. Si no existe modelos, estos deben ser realizados previo a los análisis.&#xA;"/>
