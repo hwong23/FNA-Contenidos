@@ -1,11 +1,11 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gobierno SOA. 3n. Objetivos"
-    id="id-dad0a3f0c76a45f89d4d69bc1c52cc4b">
+    name="Gobierno SOA. 3n1. Objetivos"
+    id="id-a5d4bb9444aa458d83f420812b3f4abd">
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-b75c0f7dc1cc401abba9f35a794c69ef"
+      id="id-261651f5623c4451859d4f6577a825a6"
       textAlignment="1"
       content="Objetivos del Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;versión 0.8&#xA;">
     <bounds
@@ -16,16 +16,16 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a984ac9996e943e3ad13a88bf0499f0c">
+      id="id-e3a5ad1392354401bb802b61a8df24d9">
     <sourceConnections
-        id="id-dc468f2fde4e48789308ff772a87c360"
-        source="id-a984ac9996e943e3ad13a88bf0499f0c"
-        target="id-068ae83cbdb6420c8d41d41955439814"/>
+        id="id-6c66881230974be9b18d4f3ee3d85f4b"
+        source="id-e3a5ad1392354401bb802b61a8df24d9"
+        target="id-977e6e5b9cdb4a8c9e66c5303be60523"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-98253e8c703848bebd6bc4a4418b39e2"
-        source="id-a984ac9996e943e3ad13a88bf0499f0c"
-        target="id-24eca44080634726a25798d6be53791d">
+        id="id-f5bc8ffb81054467ac2b088f84503d99"
+        source="id-e3a5ad1392354401bb802b61a8df24d9"
+        target="id-f23fa54663c04d1bacecf3ab487a28d8">
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_id-787822e894f64655bc7857dcaf7aecd5.xml#id-787822e894f64655bc7857dcaf7aecd5"/>
@@ -41,11 +41,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-99f8ec95674b4b8982044f2fee1a2bfc">
+      id="id-62fac7ced1e24577b9be32d5efa90d95">
     <sourceConnections
-        id="id-3b7834997cee4be4b2bae87c7d7dff4b"
-        source="id-99f8ec95674b4b8982044f2fee1a2bfc"
-        target="id-8792dbdd5d174042859a2c7accff8d82"/>
+        id="id-64f280ed01ee4a64a250b2b39cdb1a2a"
+        source="id-62fac7ced1e24577b9be32d5efa90d95"
+        target="id-e69e18b30cf14336befbf6b277e48b53"/>
     <bounds
         x="78"
         y="247"
@@ -57,11 +57,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-54eceb401ce148469a2370b44c2c87c6">
+      id="id-ae9d7e81a35947ef9bc6849745046cdb">
     <sourceConnections
-        id="id-3b71366790f446a39ed3353b839aa547"
-        source="id-54eceb401ce148469a2370b44c2c87c6"
-        target="id-a842a405ae9d4c768503322b0ef82d5c"/>
+        id="id-fabfc22d5d3a429b87019687de13e070"
+        source="id-ae9d7e81a35947ef9bc6849745046cdb"
+        target="id-2edb6cfc7f504dc89227d7ee1cf5e39a"/>
     <bounds
         x="78"
         y="347"
@@ -73,8 +73,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-068ae83cbdb6420c8d41d41955439814"
-      targetConnections="id-dc468f2fde4e48789308ff772a87c360"
+      id="id-977e6e5b9cdb4a8c9e66c5303be60523"
+      targetConnections="id-6c66881230974be9b18d4f3ee3d85f4b"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       content="Hacer seguimiento a inversión tecnológica, provedores y colaboración con externos; evaluar y constatar la implementación de soluciones FNA, la cual podría limitarse a servicios SOA; controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.&#xA;">
@@ -86,8 +86,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-8792dbdd5d174042859a2c7accff8d82"
-      targetConnections="id-3b7834997cee4be4b2bae87c7d7dff4b"
+      id="id-e69e18b30cf14336befbf6b277e48b53"
+      targetConnections="id-64f280ed01ee4a64a250b2b39cdb1a2a"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       content="Bien sea por medio de las revisiones de diseño, el comité de arquitectura, o por el desarrollo y distribución de un catálogo de soluciones preconstruídas que alivie y guíe a las fábricas y desarrolladores que trabajan para la empresa.&#xA;">
@@ -99,8 +99,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-a842a405ae9d4c768503322b0ef82d5c"
-      targetConnections="id-3b71366790f446a39ed3353b839aa547"
+      id="id-2edb6cfc7f504dc89227d7ee1cf5e39a"
+      targetConnections="id-fabfc22d5d3a429b87019687de13e070"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
       content="Los índices de efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente.">
@@ -112,44 +112,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-43ca7b333f5a42d9ae74e437209a1424">
-    <bounds
-        x="78"
-        y="515"
-        width="220"
-        height="67"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-8538668365b644438f1ccba015509858.xml#id-8538668365b644438f1ccba015509858"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c56bbb77d9954b45a3a0c269367e1f75">
-    <bounds
-        x="582"
-        y="515"
-        width="220"
-        height="67"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-b347b3c662414983994fe8ec89033860.xml#id-b347b3c662414983994fe8ec89033860"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b3cdcfe971c94207abf67854a4a00d61">
-    <bounds
-        x="330"
-        y="515"
-        width="220"
-        height="67"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-454cec8780394f349b9eeab81268253b.xml#id-454cec8780394f349b9eeab81268253b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-24eca44080634726a25798d6be53791d"
-      targetConnections="id-98253e8c703848bebd6bc4a4418b39e2">
+      id="id-f23fa54663c04d1bacecf3ab487a28d8"
+      targetConnections="id-f5bc8ffb81054467ac2b088f84503d99">
     <bounds
         x="348"
         y="12"
