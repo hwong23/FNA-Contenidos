@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="detalle"
+    name="detalle N200...500"
     id="7f6f0498-81f3-45a6-b850-9a1197a8ded5">
   <source
       xsi:type="archimate:Junction"
