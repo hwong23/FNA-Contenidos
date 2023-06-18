@@ -548,17 +548,17 @@
         source="568619c2-06e1-40cc-9ac0-d7b5b9babc10"
         target="76fc9020-9dcd-484c-a10e-9e2fd5ad6f33">
       <bendpoints
-          startX="240"
-          startY="-7"
-          endX="20"
+          startX="221"
+          startY="3"
+          endX="44"
           endY="486"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_7f6f0498-81f3-45a6-b850-9a1197a8ded5.xml#7f6f0498-81f3-45a6-b850-9a1197a8ded5"/>
     </sourceConnections>
     <bounds
-        x="341"
-        y="696"
+        x="384"
+        y="686"
         width="15"
         height="15"/>
     <archimateElement
