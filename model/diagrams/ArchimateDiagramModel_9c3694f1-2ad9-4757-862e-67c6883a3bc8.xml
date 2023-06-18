@@ -104,6 +104,19 @@
           width="49"
           height="25"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="0038bfe6-0a69-4b8b-942f-4808b23bffa9"
+        textAlignment="1"
+        fillColor="#00f900"
+        content="5."
+        borderType="1">
+      <bounds
+          x="36"
+          y="36"
+          width="49"
+          height="25"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_e1060dae-8f03-492f-b931-e2bbed2bdde4.xml#e1060dae-8f03-492f-b931-e2bbed2bdde4"/>
@@ -519,7 +532,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="a990b643-11ff-4e76-8446-0a223de1738b"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ01. Colaboración para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.11">
+      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ01. Colaboración para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.12">
     <bounds
         x="15"
         width="240"
