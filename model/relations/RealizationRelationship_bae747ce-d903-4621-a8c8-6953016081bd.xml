@@ -1,12 +1,11 @@
-<archimate:FlowRelationship
+<archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ejecuta"
-    id="56a7d754-3d68-41c3-9018-8b658691c9bc">
+    id="bae747ce-d903-4621-a8c8-6953016081bd">
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_id-526efafb5d094f99ad65ebec8c5f35eb.xml#id-526efafb5d094f99ad65ebec8c5f35eb"/>
   <target
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_68f82771-0bbf-4869-a30b-ee9f96cfdd59.xml#68f82771-0bbf-4869-a30b-ee9f96cfdd59"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:Principle"
+      href="Principle_80d63a5a-f3ba-419d-8ab4-f3707e10c986.xml#80d63a5a-f3ba-419d-8ab4-f3707e10c986"/>
+</archimate:RealizationRelationship>
