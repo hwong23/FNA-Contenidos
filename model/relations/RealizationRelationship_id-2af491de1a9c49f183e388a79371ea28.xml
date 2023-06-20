@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="diagnostica"
+    id="id-2af491de1a9c49f183e388a79371ea28">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7efeeb02f7c14091a8cebfc40a19be3b.xml#id-7efeeb02f7c14091a8cebfc40a19be3b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b2d78bd1c2d64db2b5bd20a5c7556554.xml#id-b2d78bd1c2d64db2b5bd20a5c7556554"/>
+</archimate:RealizationRelationship>
