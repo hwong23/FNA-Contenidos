@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gobierno SOA. 8n. Funciones"
+    name="Gobierno SOA. 8n. 1. Funciones (resp.)"
     id="id-7377f56482e04b22922813a6a0fa8ed5"
     documentation="Las condiciones preexistentes en el FNA indicadas arriba definen el contexto en el cual debe operar, y el que hay que enfrentar con el nuevo gobierno SOA del FNA, versión 0.5. Esto es, para enfrentar este contexto requerimos antes que nada lo que llamaremos funciones del gobierno, y que estas sean explicitas para este contexto. del FNA. Estas funciones, además, deben tener un corresponsal directo, y esta es la oficina de arquitectura del FNA (LOAF), dado que esta es la que las debe ejecutar.&#xA;&#xA;Las funciones que el gobierno SOA del FNA debe proveer, y que la oficina de arquitectura del FNA debe realizar, son:&#xA;&#xA;* FUNC01. Vigilancia de alienación negocio-arquitectura&#xA;* FUNC02. Equilibrio arquitectura y procesos SOA&#xA;* FUNC03. Supervisión de efectividad y factibilidad SOA&#xA;* FUNC04. Mejora de los índices de efectividad (madurez) SOA&#xA;* FUNC05. Consideraciones para la puesta en marcha del gobierno SOA en el FNA&#xA;">
   <children

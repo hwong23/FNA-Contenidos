@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="intermedia"
+    id="51dce91e-ca5d-4d8d-b351-e822055058b8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b0e3ffe6-7789-45a3-9089-01c37e20e56b.xml#b0e3ffe6-7789-45a3-9089-01c37e20e56b"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_410d8947-e6f4-4a96-8686-635ce4a5f833.xml#410d8947-e6f4-4a96-8686-635ce4a5f833"/>
+</archimate:AssociationRelationship>
