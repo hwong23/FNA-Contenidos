@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="informa"
+    id="id-bcc1b5eeddf940dcb3de158447a59df9">
+  <source
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-857554f0f8964f579ef6015316ea9b60.xml#id-857554f0f8964f579ef6015316ea9b60"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-c16a45cfe18649bb9b744ef784392e56.xml#id-c16a45cfe18649bb9b744ef784392e56"/>
+</archimate:FlowRelationship>

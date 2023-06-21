@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-277e4be9160f492a8cd34d1d1280b24e"
-      name="Marco de Gobierno SOA. FNA"
+      name="Marco de Gobierno SOA FNA. Oficina"
       textAlignment="1">
     <bounds
         x="192"
@@ -70,21 +70,21 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-5040a8521faa4d2dbf7363ae841c3965"
-          source="id-fc49e1a3df6047a3889183ef7044fccc"
-          target="id-9b7c48514bc441d4acf5589bef546e3e">
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-a6301a1b09744ddab38f5be213280ae1.xml#id-a6301a1b09744ddab38f5be213280ae1"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e77f74572750411cb9a0b29d84e3c4b1"
           source="id-fc49e1a3df6047a3889183ef7044fccc"
           target="id-a3f2f3844fc1466d996ebd0315e430b4">
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-611b609d54264489838318f5e6808d52.xml#id-611b609d54264489838318f5e6808d52"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5040a8521faa4d2dbf7363ae841c3965"
+          source="id-fc49e1a3df6047a3889183ef7044fccc"
+          target="id-9b7c48514bc441d4acf5589bef546e3e">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_id-a6301a1b09744ddab38f5be213280ae1.xml#id-a6301a1b09744ddab38f5be213280ae1"/>
       </sourceConnections>
       <bounds
           x="276"
