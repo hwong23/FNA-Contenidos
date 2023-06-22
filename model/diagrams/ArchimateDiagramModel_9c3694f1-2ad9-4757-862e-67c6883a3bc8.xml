@@ -443,9 +443,6 @@
         id="787c33cc-3269-48f8-844f-62a7377a0e71"
         source="2be5a413-666f-43b8-b5d7-61d45292bdda"
         target="9bb34494-1dac-46a4-a2e7-32ecced32863">
-      <bendpoints
-          startY="58"
-          endY="-108"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_e4e969bc-0a9c-4676-b972-e627ccd21965.xml#e4e969bc-0a9c-4676-b972-e627ccd21965"/>

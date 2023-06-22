@@ -111,9 +111,9 @@
           source="id-3989155ee5de4a09b8195c6909efb525"
           target="id-a3b0bce224f9438db4bd0a51e6ed44ef">
         <bendpoints
-            startX="192"
-            startY="-11"
-            endX="-216"
+            startX="202"
+            startY="-10"
+            endX="-206"
             endY="-12"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
@@ -145,6 +145,24 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a3b0bce224f9438db4bd0a51e6ed44ef"
         targetConnections="id-4a44111a6c0741878cdd1c2a3b1bb2f6 id-5985451f35f94861b540be48f761b489">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e02cbe33a55a450db9c9099a57de4679"
+          source="id-a3b0bce224f9438db4bd0a51e6ed44ef"
+          target="id-d10fd48ece98494ca0d8030b8e267eb9">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-51b1687cefc949cc8b88c5714cef3ffa.xml#id-51b1687cefc949cc8b88c5714cef3ffa"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a175122445c342c5bf9a2dab9ed119a2"
+          source="id-a3b0bce224f9438db4bd0a51e6ed44ef"
+          target="id-3f1c12c3aec44d328300125d93b12cc9">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_4422f2b8-3f4b-4add-8319-66c28916fa7f.xml#4422f2b8-3f4b-4add-8319-66c28916fa7f"/>
+      </sourceConnections>
       <bounds
           x="432"
           y="36"
@@ -292,9 +310,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1a2e6051a7914c40b5029cc563614343">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7b0967ed9995471798d349b4c643f708"
+        source="id-1a2e6051a7914c40b5029cc563614343"
+        target="id-3f1c12c3aec44d328300125d93b12cc9">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_e4e969bc-0a9c-4676-b972-e627ccd21965.xml#e4e969bc-0a9c-4676-b972-e627ccd21965"/>
+    </sourceConnections>
     <bounds
-        x="815"
-        y="-36"
+        x="708"
+        y="-3"
         width="120"
         height="55"/>
     <archimateElement
@@ -341,14 +368,37 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d10fd48ece98494ca0d8030b8e267eb9">
+      id="id-d10fd48ece98494ca0d8030b8e267eb9"
+      targetConnections="id-e02cbe33a55a450db9c9099a57de4679">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-86d822edaad4449589d1459e1dd51a4a"
+        source="id-d10fd48ece98494ca0d8030b8e267eb9"
+        target="id-3f1c12c3aec44d328300125d93b12cc9">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-3ae0e79679a2459d9e0e55934d6b84c0.xml#id-3ae0e79679a2459d9e0e55934d6b84c0"/>
+    </sourceConnections>
     <bounds
         x="696"
-        y="180"
-        width="120"
-        height="55"/>
+        y="168"
+        width="144"
+        height="72"/>
     <archimateElement
         xsi:type="archimate:ApplicationInteraction"
         href="ApplicationInteraction_id-0c1325c6be95411585897e2ef63948f6.xml#id-0c1325c6be95411585897e2ef63948f6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3f1c12c3aec44d328300125d93b12cc9"
+      targetConnections="id-86d822edaad4449589d1459e1dd51a4a id-7b0967ed9995471798d349b4c643f708 id-a175122445c342c5bf9a2dab9ed119a2">
+    <bounds
+        x="949"
+        y="576"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_fda091cb-6b96-412f-8c74-7b77b043c283.xml#fda091cb-6b96-412f-8c74-7b77b043c283"/>
   </children>
 </archimate:ArchimateDiagramModel>
