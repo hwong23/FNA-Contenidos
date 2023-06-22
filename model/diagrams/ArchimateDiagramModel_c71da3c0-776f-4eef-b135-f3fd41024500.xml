@@ -142,12 +142,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="cf646660-d11b-4082-86c6-5869cc64d644"
       textAlignment="1"
-      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ01. Interno. Oficina de arquitectura. Para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.7">
+      content="Gobierno SOA del FNA&#xA;&#xA;FLUJ01. Interno. Oficina de arquitectura. Para el modelado de soluciones, base para el análsis y la generación de contenidos.&#xA;&#xA;versión 0.11">
     <bounds
         x="12"
         y="12"
-        width="226"
-        height="109"/>
+        width="241"
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
