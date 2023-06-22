@@ -1,4 +1,8 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Repositorio Artefactos FNA &lt;&lt;Mega>>"
-    id="id-0c1325c6be95411585897e2ef63948f6"/>
+    name="GOB04. Repositorio Artefactos FNA &lt;&lt;Mega>>"
+    id="id-0c1325c6be95411585897e2ef63948f6">
+  <properties
+      key="gob"
+      value="1"/>
+</archimate:ApplicationInteraction>

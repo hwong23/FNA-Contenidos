@@ -1,4 +1,8 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Colaboración entre Oficinas"
-    id="id-d22792a5c1c141ad8b2400a68e0eb6ac"/>
+    name="GOB01. Colaboración entre Oficinas"
+    id="id-d22792a5c1c141ad8b2400a68e0eb6ac">
+  <properties
+      key="gob"
+      value="1"/>
+</archimate:BusinessCollaboration>
