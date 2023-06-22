@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="accede"
     id="e4e969bc-0a9c-4676-b972-e627ccd21965">
   <source
       xsi:type="archimate:BusinessActor"
