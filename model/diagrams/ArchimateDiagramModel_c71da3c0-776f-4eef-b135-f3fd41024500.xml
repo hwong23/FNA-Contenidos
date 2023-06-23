@@ -35,9 +35,9 @@
           href="TriggeringRelationship_3ecc1249-1634-4b0a-aa47-8622953baa23.xml#3ecc1249-1634-4b0a-aa47-8622953baa23"/>
     </sourceConnections>
     <bounds
-        x="178"
+        x="166"
         y="444"
-        width="120"
+        width="132"
         height="67"/>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -47,7 +47,7 @@
         content="2."
         borderType="1">
       <bounds
-          x="60"
+          x="72"
           y="36"
           width="49"
           height="25"/>
@@ -78,10 +78,10 @@
           href="TriggeringRelationship_54d6b1c9-751b-4cee-bbc0-01e63684ea16.xml#54d6b1c9-751b-4cee-bbc0-01e63684ea16"/>
     </sourceConnections>
     <bounds
-        x="178"
-        y="192"
-        width="120"
-        height="55"/>
+        x="166"
+        y="180"
+        width="132"
+        height="67"/>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="58e1345d-f025-4c5e-a053-5403cce169dc"
@@ -90,8 +90,8 @@
         content="1."
         borderType="1">
       <bounds
-          x="60"
-          y="24"
+          x="72"
+          y="36"
           width="49"
           height="25"/>
     </children>
@@ -190,7 +190,6 @@
           href="FlowRelationship_a50b6b13-67ed-4ded-97d2-655c5b55757d.xml#a50b6b13-67ed-4ded-97d2-655c5b55757d"/>
     </sourceConnections>
     <bounds
-        x="24"
         y="588"
         width="143"
         height="67"/>
@@ -260,9 +259,9 @@
           href="FlowRelationship_1b5ecf67-65e8-46ac-ae89-2460fec9eca6.xml#1b5ecf67-65e8-46ac-ae89-2460fec9eca6"/>
     </sourceConnections>
     <bounds
-        x="192"
+        x="166"
         y="588"
-        width="145"
+        width="159"
         height="67"/>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -272,7 +271,7 @@
         content="5."
         borderType="1">
       <bounds
-          x="84"
+          x="98"
           y="36"
           width="49"
           height="25"/>
@@ -285,7 +284,7 @@
         content="5."
         borderType="1">
       <bounds
-          x="36"
+          x="50"
           y="36"
           width="49"
           height="25"/>
