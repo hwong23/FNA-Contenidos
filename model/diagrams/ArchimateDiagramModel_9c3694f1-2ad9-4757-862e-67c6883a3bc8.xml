@@ -534,7 +534,7 @@
         targetConnections="df645824-bf15-4473-9f45-8a83d7cad9ac id-f3342a669c4346d4aacd545093fcfa59">
       <bounds
           x="24"
-          y="132"
+          y="144"
           width="145"
           height="84"/>
       <children
@@ -560,7 +560,7 @@
         targetConnections="8ed08479-1cad-4098-8586-27a3ed5e04b9 id-bbc4afff007246aea4c724a2fbbfcfa6">
       <bounds
           x="25"
-          y="228"
+          y="240"
           width="144"
           height="73"/>
       <children
@@ -586,7 +586,7 @@
         targetConnections="dcbac699-1e1c-48cd-b588-d507d253e3b0 id-5d7e676a19994165a5c6b45aa59e1267">
       <bounds
           x="25"
-          y="48"
+          y="60"
           width="144"
           height="72"/>
       <children
