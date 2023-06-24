@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documentación Técnica"
-    id="id-63a4bf2b19cf4fc7824b87a2deb61756"/>
+    id="id-63a4bf2b19cf4fc7824b87a2deb61756"
+    documentation="Emitir documentos homogéneos. Aplicación de estilos permitidos de documentación técnica. Normalización de canal y medios de publicación de documentación técnica: HTML, markdown y PDF.&#xA;"/>

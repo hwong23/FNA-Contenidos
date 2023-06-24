@@ -10,8 +10,8 @@
       name="Marco de Gobierno SOA FNA. Oficina"
       textAlignment="1">
     <bounds
-        x="192"
-        y="156"
+        x="216"
+        y="48"
         width="745"
         height="445"/>
     <children
@@ -191,8 +191,8 @@
           href="AccessRelationship_id-f508373fe2e442a4a373925f94c03a70.xml#id-f508373fe2e442a4a373925f94c03a70"/>
     </sourceConnections>
     <bounds
-        x="-84"
-        y="312"
+        x="-60"
+        y="204"
         width="145"
         height="55"/>
     <archimateElement
@@ -205,8 +205,8 @@
       textAlignment="1"
       content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Con base en Flujos Críticos de Trabajo (CCF)&#xA;&#xA;versión 0.5.8&#xA;">
     <bounds
-        x="-84"
-        y="132"
+        x="-153"
+        y="24"
         width="229"
         height="132"/>
   </children>
@@ -215,8 +215,8 @@
       id="id-2b71ab0619ec4dc8bcd3311d4d7f3c90"
       targetConnections="id-e65a05cb0e264e289254bb582d4a736b">
     <bounds
-        x="-175"
-        y="540"
+        x="-151"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement
@@ -228,8 +228,8 @@
       id="id-1536b21abe7b4963846c45dc30384e90"
       targetConnections="id-d65d2c8953684d0f9e70f42a445c0bab">
     <bounds
-        x="48"
-        y="540"
+        x="72"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement
@@ -268,8 +268,8 @@
           href="AccessRelationship_id-613a8b7254724605955cf47f6e9e6d64.xml#id-613a8b7254724605955cf47f6e9e6d64"/>
     </sourceConnections>
     <bounds
-        x="-19"
-        y="420"
+        x="5"
+        y="312"
         width="15"
         height="15"/>
     <archimateElement
@@ -281,8 +281,8 @@
       id="id-c7109a3cb0c74ddabd3529f7b8ab260f"
       targetConnections="id-084f62615f244fdf80ed6d46ddcaf3da id-fb6e4996120149298c0acf46f498c7a6 id-7d5e16395d904be5847c1d137c370a6c id-ea1ce8a486cc462ea860c7e183ff7edb id-ebf5f2108b9b471ba452256d2a3add45 id-f0652366bed9462fa43409c9529b820e">
     <bounds
-        x="276"
-        y="696"
+        x="300"
+        y="588"
         width="876"
         height="373"/>
     <children
@@ -692,8 +692,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4922347da7ea4b10ba812cc6c9adb099">
     <bounds
-        x="346"
-        y="766"
+        x="370"
+        y="658"
         width="120"
         height="55"/>
     <archimateElement
@@ -704,8 +704,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-63d943093d3a4949b6392a6cbcbdafc5">
     <bounds
-        x="356"
-        y="776"
+        x="380"
+        y="668"
         width="120"
         height="55"/>
     <archimateElement
@@ -717,8 +717,8 @@
       id="id-d820e418b7e845e0b0d9f09615a143f6"
       targetConnections="id-3fec93121d07445889011351afd47c8a">
     <bounds
-        x="-71"
-        y="636"
+        x="-47"
+        y="528"
         width="120"
         height="55"/>
     <archimateElement
