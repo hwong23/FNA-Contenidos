@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Segmento FNA. 2. Fase II"
+    name="Segmento FNA. 2a. Fase II. PRY01"
     id="id-95ce2203e6c4412e88b8ea51d6d76b86"
     documentation="Vista de Contexto. v0.18&#xA;Detalle de los ítems de arquitectura impactados por el proyecto.&#xA;&#xA;E-Service, Fase II&#xA;Mayo 2023&#xA;&#xA;PRY01. Gobierno SOA&#xA;">
   <children
@@ -214,7 +214,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-01be4b4136d94e009014fcfa530ef7fe"
-        targetConnections="id-dadebea241f54fe5a818788837198a2b">
+        targetConnections="id-dadebea241f54fe5a818788837198a2b"
+        fillColor="#c0c0c0">
       <bounds
           x="372"
           y="132"
