@@ -225,8 +225,8 @@
       content="Procesos de Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;Relaciones de los procesos con las capacidades y objetivos de la oficina de arquitectura del FNA.&#xA;&#xA;versión 0.8&#xA;">
     <bounds
         x="-48"
-        width="205"
-        height="121"/>
+        width="229"
+        height="145"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
