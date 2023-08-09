@@ -58,8 +58,8 @@
           href="FlowRelationship_id-b6f567bef98d4b2b8cb2ce713d95aeb5.xml#id-b6f567bef98d4b2b8cb2ce713d95aeb5"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="132"
+        x="24"
+        y="168"
         width="661"
         height="157"/>
     <children
@@ -188,8 +188,8 @@
           href="FlowRelationship_id-90add794a7dc46e3819d4abd8c3addd7.xml#id-90add794a7dc46e3819d4abd8c3addd7"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="324"
+        x="24"
+        y="360"
         width="661"
         height="157"/>
     <children
@@ -213,11 +213,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-8d80cc64c3ba497298209251ea3cb504"
       textAlignment="1"
-      content="Proceso de Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;versión 0.6&#xA;">
+      content="Proceso de Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;Procesos de gobierno y mantenimiento de arquitecturas del FNA&#xA;&#xA;versión 0.6&#xA;">
     <bounds
         x="-48"
         y="24"
-        width="185"
-        height="80"/>
+        width="229"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
