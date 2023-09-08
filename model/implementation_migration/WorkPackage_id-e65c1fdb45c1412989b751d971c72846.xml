@@ -1,8 +1,8 @@
-<archimate:Goal
+<archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Características"
-    id="id-b4e344764a98436eaf3c06016473c4dd">
+    name="3er Trimestre"
+    id="id-e65c1fdb45c1412989b751d971c72846">
   <properties
       key="modulo"
       value="relatoria"/>
-</archimate:Goal>
+</archimate:WorkPackage>
