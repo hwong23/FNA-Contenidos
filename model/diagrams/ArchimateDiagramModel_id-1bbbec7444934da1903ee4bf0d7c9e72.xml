@@ -67,8 +67,8 @@
           href="RealizationRelationship_id-9d14b0a9c01f4508827d54c3322f0e41.xml#id-9d14b0a9c01f4508827d54c3322f0e41"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="132"
+        x="72"
+        y="144"
         width="661"
         height="157"/>
     <children
@@ -197,8 +197,8 @@
           href="FlowRelationship_id-90add794a7dc46e3819d4abd8c3addd7.xml#id-90add794a7dc46e3819d4abd8c3addd7"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="324"
+        x="72"
+        y="336"
         width="661"
         height="157"/>
     <children
@@ -224,7 +224,8 @@
       textAlignment="1"
       content="Procesos de Gobierno SOA&#xA;Adaptado FNA.&#xA;&#xA;Relaciones de los procesos con las capacidades y objetivos de la oficina de arquitectura del FNA.&#xA;&#xA;versión 0.8&#xA;">
     <bounds
-        x="-48"
+        x="12"
+        y="12"
         width="229"
         height="145"/>
   </children>
@@ -311,8 +312,8 @@
           href="RealizationRelationship_id-c7bb18cef1a6429e99256df91c869e5d.xml#id-c7bb18cef1a6429e99256df91c869e5d"/>
     </sourceConnections>
     <bounds
-        x="747"
-        y="24"
+        x="807"
+        y="36"
         width="348"
         height="592"/>
     <children
@@ -443,8 +444,8 @@
           href="CompositionRelationship_id-c5e74d128eac408fab3e3f712ddbfeff.xml#id-c5e74d128eac408fab3e3f712ddbfeff"/>
     </sourceConnections>
     <bounds
-        x="1176"
-        y="24"
+        x="1236"
+        y="36"
         width="264"
         height="592"/>
     <children
