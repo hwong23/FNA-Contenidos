@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de Tecnología para Negocio"
-    id="id-d2f62208d6fb4eb59f7f01943a855232">
+    name="Gestión de Tecnología para Negocio. Versión 1.2"
+    id="id-e9ab1d43839f48c4bb125eee66f4f1dd">
   <properties
       key="version"
-      value="1.0"/>
+      value="1.1"/>
 </archimate:Capability>

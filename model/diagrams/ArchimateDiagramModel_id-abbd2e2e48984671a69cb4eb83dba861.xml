@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propuesta.2. Plan general"
+    id="id-abbd2e2e48984671a69cb4eb83dba861">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af79c7783b8740b486601843e92dff25">
+    <bounds
+        x="89"
+        y="70"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-66532d2eb3f34aadab00ca13a2872e12.xml#id-66532d2eb3f34aadab00ca13a2872e12"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-56c3058b84874503be5c510825b3c834">
+    <bounds
+        x="425"
+        y="206"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-97b543cc732147b5aea368b552ff4473.xml#id-97b543cc732147b5aea368b552ff4473"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-787031a07e204970b6f48a5f30359d5e">
+    <bounds
+        x="420"
+        y="288"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-0d6be2e84faa43069654866dcf5b83b8.xml#id-0d6be2e84faa43069654866dcf5b83b8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
