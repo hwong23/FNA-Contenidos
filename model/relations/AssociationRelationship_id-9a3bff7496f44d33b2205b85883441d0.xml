@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trabajo"
     id="id-9a3bff7496f44d33b2205b85883441d0">
   <source
       xsi:type="archimate:Capability"
