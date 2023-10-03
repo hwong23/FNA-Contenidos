@@ -21,30 +21,6 @@
         y="36"
         width="400"
         height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-01c744623d3f40818488afd21faadc72">
-      <bounds
-          x="24"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-9fb7fefdff9c4e26b0e7c0ac62298c9c.xml#id-9fb7fefdff9c4e26b0e7c0ac62298c9c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-c4674767c13443cc9a151c0eedd7d0d7">
-      <bounds
-          x="180"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_9c3694f1-2ad9-4757-862e-67c6883a3bc8.xml#9c3694f1-2ad9-4757-862e-67c6883a3bc8"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-015c6750f0f24aa191d231df4e515ef0.xml#id-015c6750f0f24aa191d231df4e515ef0"/>
