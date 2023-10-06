@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Propuesta COOMV. 1"
-    id="id-ea1dd349c6d749c1b5b536c3e4831b06">
+    id="id-ea1dd349c6d749c1b5b536c3e4831b06"
+    documentation="## Productos y Resultados del Planteamiento&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b0af9b7005ef4eae84c109c14981ede2"
