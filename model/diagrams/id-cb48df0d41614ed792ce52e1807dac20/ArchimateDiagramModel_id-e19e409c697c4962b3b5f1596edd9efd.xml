@@ -16,7 +16,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-75686ef8dc54409fbd0135bb23350f8a">
       <bounds
-          x="24"
+          x="168"
           y="36"
           width="120"
           height="55"/>
@@ -28,7 +28,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-91f636a520f64e49b6c579705b5eb737">
       <bounds
-          x="174"
+          x="24"
           y="36"
           width="120"
           height="55"/>

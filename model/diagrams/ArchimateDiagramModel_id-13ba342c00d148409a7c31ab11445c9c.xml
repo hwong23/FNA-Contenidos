@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Propuesta COOMV. 2"
+    name="Propuesta COOMV. 1a"
     id="id-13ba342c00d148409a7c31ab11445c9c"
     documentation="## Entendimiento del problema(s), y supuestas causas asociadas&#xA;&#xA;Tres problemáticas aparecen claras en las entrevistas. La falta de apoyo de los procesos de ingeniería a los procesos de gerencia del proyecto evidenciada por la ausencia de documentación técnica y de los análisis que soporten la toma de decisiones de la gerencia del proyecto. Segundo, la inestabilidad en la observación integral de los procesos de ingeniería (que van desde el Levantamiento, Estimación, hasta la Transición) causada por la aplicación de variedad de perspectivas a la hora de conducir los procesos de ingeniería en el proyecto. Por último, la afectación al flujo de caja que radica en problemas en las entregas contractuales.&#xA;&#xA;## Planteamiento: refuerzo de 3 capacidades del proyecto&#xA;&#xA;Con base en lo anterior, la propuesta es el fortalecimiento de tres capacidades técnicas: de la capacidad de Gobierno, que se encarga de los problemas de la relación de los procesos ingeniería y gerencia; de la capacidad de ingeniería, para atacar los problemas de calidad, y sobretodo en la vigilancia de la relación desarrollo - calidad - requerimiento; por último, el refuerzo de la capacidad de Arquitectura, la más importante, para complementar las anteriores y garantizar que los componentes de software cumplan con las calidades contractuales y sistémicas que beneficien el flujo de caja del proyecto.&#xA;">
   <children
