@@ -7,4 +7,7 @@
   <properties
       key="version"
       value="1.1"/>
+  <properties
+      key="rutaMac"
+      value="/Downloads/tmpr/prymd/"/>
 </archimate:ArchimateModel>

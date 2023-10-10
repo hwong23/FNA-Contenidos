@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arq Mi Mutual"
+    id="id-e19e409c697c4962b3b5f1596edd9efd">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-75686ef8dc54409fbd0135bb23350f8a">
+    <bounds
+        x="24"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-ea1dd349c6d749c1b5b536c3e4831b06.xml#id-ea1dd349c6d749c1b5b536c3e4831b06"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-91f636a520f64e49b6c579705b5eb737">
+    <bounds
+        x="174"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-13ba342c00d148409a7c31ab11445c9c.xml#id-13ba342c00d148409a7c31ab11445c9c"/>
+  </children>
+  <properties
+      key="devdoc"
+      value="02n.a1.propmimutual.md"/>
+  <properties
+      key="rutaMac"
+      value="/Downloads/tmpr/prymd/"/>
+  <properties
+      key="alias"
+      value="propdoc"/>
+</archimate:ArchimateDiagramModel>
