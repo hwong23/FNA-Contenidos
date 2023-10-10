@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ingeniería"
-    id="id-1e76b56097bc4d91acbf3591d80d4d40"/>
+    id="id-1e76b56097bc4d91acbf3591d80d4d40"
+    documentation="Capacidad del proyecto involucrada en los objetivos de la propuesta de refuerzo de arquitectura."/>
