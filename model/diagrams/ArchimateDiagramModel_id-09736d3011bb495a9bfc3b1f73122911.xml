@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BcoBogota. POC. Integración CRM"
+    name="BcoBogota.POC.1. Integración CRM"
     id="id-09736d3011bb495a9bfc3b1f73122911"
     documentation="## Consulta Integrada de CRM Siebel, Peoplesoft&#xA;&#xA;Componente de respuesta unificada para consulta de negocio compartida entre dos fuentes de información. El componente realiza la interpretación de la entrada, identifica la consulta y prepara la respuesta unificada a la consulta. La consulta de negocio ni el componente que la implementa modifican el estado de los sistemas o aplicaciones consultadas.&#xA;&#xA;&#xA;&#xA;### Implementación&#xA;&#xA;La consulta está implementada enteramente en el componente de aplicación, Consulta.app, en el diagrama; no depende ni hace uso  de ningún elemento existente de la empresa. La lógica de la consulta está contenida en el Mapeador de datos Java, en la gráfica.&#xA;&#xA;Todos las partes del modelo de la consulta integrada no dependen ni hacen uso  de ningún elemento existente de la empresa, con excepción de aquellos ítems que sí aparecen en el diagrama de implementación de la prueba.&#xA;&#xA;Las garantías para el desarrollo de la prueba de la consulta integrada deben ser provistas por la empresa, esto es, la infraestructura de hardware y software; de otra manera, reproducir las condiciones necesarias para la consulta fuera de la empresa aumenta los costos y tiempos de la prueba.&#xA;&#xA;&#xA;### Consideraciones&#xA;&#xA;El código fuente de la prueba de la consulta integrada no es entregable al cliente.&#xA;&#xA;Otros entregables, como documentación, transferencia de conocimiento, etc., tampoco son parte de la entrega. Son parte de la entrega los resultados de la prueba únicamente.&#xA;&#xA;&#xA;">
   <children
@@ -194,15 +194,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-67fd82a7c9ff4e789fe3297930ecf9c0"
       textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a3d68ca6a4924f18b4e9cf53f0949f03"
-        source="id-67fd82a7c9ff4e789fe3297930ecf9c0"
-        target="id-b2baa737e78f4d529b1c815b8280df1c">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-2163d9f55aa742498be194cec1c500b5.xml#id-2163d9f55aa742498be194cec1c500b5"/>
-    </sourceConnections>
     <bounds
         x="216"
         y="330"
@@ -210,8 +201,7 @@
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-b2baa737e78f4d529b1c815b8280df1c"
-        targetConnections="id-a3d68ca6a4924f18b4e9cf53f0949f03">
+        id="id-b2baa737e78f4d529b1c815b8280df1c">
       <bounds
           x="36"
           y="48"
