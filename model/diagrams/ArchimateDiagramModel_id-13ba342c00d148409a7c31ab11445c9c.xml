@@ -61,9 +61,9 @@
       targetConnections="id-5f0e7aa57f8946fd9ba0bc3db3bdbdbd id-868c13b1907c4b7d90ad9fc2970c622c">
     <bounds
         x="36"
-        y="168"
+        y="192"
         width="201"
-        height="79"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
         href="Driver_id-5bb164fb003b4db282078bb39d8feff3.xml#id-5bb164fb003b4db282078bb39d8feff3"/>
@@ -120,7 +120,7 @@
         x="588"
         y="300"
         width="200"
-        height="73"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-8f0098099eb342928584d7428cc5ab06.xml#id-8f0098099eb342928584d7428cc5ab06"/>
@@ -146,7 +146,7 @@
         x="84"
         y="300"
         width="201"
-        height="73"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-e8151c158d4f497d8d95972076dbbef2.xml#id-e8151c158d4f497d8d95972076dbbef2"/>
@@ -157,9 +157,9 @@
       targetConnections="id-ba4e87c5729c4d03b7524f4f0f55ec1c id-069089634ca34ceca181235f9b02980e">
     <bounds
         x="288"
-        y="168"
+        y="192"
         width="201"
-        height="79"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
         href="Driver_id-f94d5ed2c6d14cd5a1070d88084f3437.xml#id-f94d5ed2c6d14cd5a1070d88084f3437"/>
@@ -170,9 +170,9 @@
       targetConnections="id-a6b33398c3894807aaefb5cf823ac545 id-d22d6be0049c416296041492da7000b4">
     <bounds
         x="540"
-        y="168"
+        y="192"
         width="201"
-        height="79"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
         href="Driver_id-eb2a502b5c244c87bfd920705c057641.xml#id-eb2a502b5c244c87bfd920705c057641"/>
@@ -193,7 +193,7 @@
         x="336"
         y="300"
         width="201"
-        height="73"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-11eac960199449e882f60620c78a8bf1.xml#id-11eac960199449e882f60620c78a8bf1"/>

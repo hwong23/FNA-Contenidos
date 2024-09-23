@@ -165,7 +165,8 @@
         height="132"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-76f8ccb08740434da5867f0a36f9744f">
+        id="id-76f8ccb08740434da5867f0a36f9744f"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-b0085836eb0542e2ad33b899d6cdc6db"

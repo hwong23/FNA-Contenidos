@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cfbbbe399eb049f8b6602d0803b76e8d"
-      targetConnections="id-005349d3ee7a440da1a93b253fd7511e">
+      targetConnections="id-005349d3ee7a440da1a93b253fd7511e"
+      type="1">
     <bounds
         x="648"
         y="418"
@@ -70,7 +71,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f41cb6469d164562a7a93d9e1e2d9ef7"
-      targetConnections="id-0bbea20877b64727a8c1bb5d2f51b6a6">
+      targetConnections="id-0bbea20877b64727a8c1bb5d2f51b6a6"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-42bb11de1e444c14a299ac8b4bb50a39"
@@ -92,7 +94,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1b9ef65a81844f9cad6efc1cde35187a"
-      targetConnections="id-4ed11456078f473f838548e66fd9b3db">
+      targetConnections="id-4ed11456078f473f838548e66fd9b3db"
+      type="1">
     <bounds
         x="648"
         y="634"
@@ -160,7 +163,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28a7e5e364ce475f8977c49058a792f7"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4608b99a73c44df896ec3ed62f65127e"
@@ -331,7 +335,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b46e2de8c256406cb31fd1ef1850ad3c"
-      targetConnections="id-42bb11de1e444c14a299ac8b4bb50a39">
+      targetConnections="id-42bb11de1e444c14a299ac8b4bb50a39"
+      type="1">
     <bounds
         x="852"
         y="490"
@@ -344,7 +349,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d74fbe63e7342b7aedc5b0194207f18"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-379cdf0947fc4cb4b529765df90cc09f"

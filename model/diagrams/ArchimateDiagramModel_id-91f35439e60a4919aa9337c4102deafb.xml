@@ -6,7 +6,8 @@
     documentation="arq orientadas ss soa, ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d4040b1ca01a4568938b9214bae731ee">
+      id="id-d4040b1ca01a4568938b9214bae731ee"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c7c240e2524942f98230b2a62c2a1c37"
@@ -103,7 +104,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d945ca829334474a8655c3a70502492d"
-      targetConnections="id-c27dd1b1259049569af17ae1965fb8a2">
+      targetConnections="id-c27dd1b1259049569af17ae1965fb8a2"
+      type="1">
     <bounds
         x="336"
         y="228"
@@ -116,7 +118,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-915d9e3b8d6445d69ae69532871d4963"
-      targetConnections="id-c7c240e2524942f98230b2a62c2a1c37">
+      targetConnections="id-c7c240e2524942f98230b2a62c2a1c37"
+      type="1">
     <bounds
         x="336"
         y="312"
