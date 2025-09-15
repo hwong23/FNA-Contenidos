@@ -186,8 +186,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ca188a45833945b2abc628c3c681fb02"
           targetConnections="id-989f338d79744bf4bb4be6b48c462e77"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="192"
@@ -201,8 +200,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-348d9c2569d94bba9b769291832627fd"
           targetConnections="id-348acc50e70d43dc98d27c24c47bd454"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="48"
@@ -216,8 +214,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d979099311e3465f813288ba96be085b"
           targetConnections="id-7024cf5f40194c8eb4d355224d8f781b"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="120"
@@ -271,8 +268,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-307eb2d9e7554f098acc1943abf94620"
           targetConnections="id-0a1b6a8a299e4478af2c79459be19b9f"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="48"
@@ -286,8 +282,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6da8e097db43464692e745cdabad72f0"
           targetConnections="id-00f2b789cab441fcbec64840d9deff5b"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="23"
             y="120"
@@ -353,8 +348,7 @@
           id="id-b89f1abc137f45eea862840705dc7f74"
           targetConnections="id-02fdd43743024f728ec84530259e671a"
           textAlignment="1"
-          fillColor="#ffe0e0"
-          type="1">
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="48"
@@ -369,8 +363,7 @@
           id="id-45fc3244abb0497ea3a94b2ba4b8bf6a"
           targetConnections="id-4c1b699af53b46129376d00ab88de4e4"
           textAlignment="1"
-          fillColor="#ffe0e0"
-          type="1">
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="120"
@@ -384,8 +377,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2afc19b70d95470699099b30559663fc"
           targetConnections="id-7437e1755af647b4b27d11f8aee7b578"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="192"
@@ -451,8 +443,7 @@
           id="id-3d3c3180e2f049fa937c955f824c4caf"
           targetConnections="id-953a771f68a548cc9941692d619b24cb"
           textAlignment="1"
-          fillColor="#ffe0e0"
-          type="1">
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="48"
@@ -466,8 +457,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5f1c2886548a4092b16f754264b0bdf7"
           targetConnections="id-3fde0ed089874916bb48bac6af8eb94e"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="120"
@@ -481,8 +471,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8cf81ea778a342d4bd491fab547f9311"
           targetConnections="id-1cd45eaa840643469cb82deaecbdf482"
-          textAlignment="1"
-          type="1">
+          textAlignment="1">
         <bounds
             x="24"
             y="192"
@@ -528,8 +517,7 @@
           id="id-c5439445975145aea6149c9835a13f4b"
           targetConnections="id-61dd42d5e5b54ad0a1f481f7e909f3f5"
           textAlignment="1"
-          fillColor="#ffe0e0"
-          type="1">
+          fillColor="#ffe0e0">
         <bounds
             x="24"
             y="48"
@@ -612,8 +600,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-38675b477845448ba64ea7049516bedd"
-      type="1">
+      id="id-38675b477845448ba64ea7049516bedd">
     <bounds
         x="60"
         y="900"

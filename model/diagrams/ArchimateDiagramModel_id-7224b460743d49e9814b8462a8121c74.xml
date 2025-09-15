@@ -18,8 +18,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-716b7e17cdfd4790bae6b77cfe5b285e"
-      targetConnections="id-ceef0175a7fd44b8aec350ce4752abf6"
-      type="1">
+      targetConnections="id-ceef0175a7fd44b8aec350ce4752abf6">
     <bounds
         x="732"
         y="480"
@@ -31,8 +30,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7e437f669f1047e19a4bb51de3278bd5"
-      type="1">
+      id="id-7e437f669f1047e19a4bb51de3278bd5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a3984d0a3f21451e9b3c6eb77e9f54f3"
@@ -54,8 +52,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3cc8d0d6d2204e789770b489de5dbb24"
-      targetConnections="id-da6a2fca54e145ceb0fdd164f3661de0"
-      type="1">
+      targetConnections="id-da6a2fca54e145ceb0fdd164f3661de0">
     <bounds
         x="563"
         y="480"
@@ -68,8 +65,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-460b37cf26d04809bf983dae698b4944"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e07332108fd546439e858ee03d76c277"
@@ -112,8 +108,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-850fd9c25bcb44818479d724856e8100"
-      type="1">
+      id="id-850fd9c25bcb44818479d724856e8100">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-03731300502248908c2dcb372f4a532a"
@@ -140,8 +135,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ff714d6439d64943a20f0ccc1c17c295"
-        targetConnections="id-03731300502248908c2dcb372f4a532a"
-        type="1">
+        targetConnections="id-03731300502248908c2dcb372f4a532a">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ceef0175a7fd44b8aec350ce4752abf6"

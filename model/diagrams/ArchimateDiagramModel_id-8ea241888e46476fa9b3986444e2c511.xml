@@ -254,8 +254,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5c89364e544f43b3a25018734012c601"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b60984dc1f8b4c289ef27b54095f6f42"
