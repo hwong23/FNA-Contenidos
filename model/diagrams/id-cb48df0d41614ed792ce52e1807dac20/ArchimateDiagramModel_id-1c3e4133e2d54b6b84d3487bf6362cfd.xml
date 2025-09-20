@@ -72,6 +72,18 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-f537a399a9ff4186bc295e1096084d85.xml#id-f537a399a9ff4186bc295e1096084d85"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-16827e607d6b4526aa0bbed79840c1ab">
+      <bounds
+          x="250"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_e08be749-d4a4-4185-854f-5e1be85b3b74.xml#e08be749-d4a4-4185-854f-5e1be85b3b74"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-1cc02c00e30a446794a4932a3f4f2736.xml#id-1cc02c00e30a446794a4932a3f4f2736"/>
