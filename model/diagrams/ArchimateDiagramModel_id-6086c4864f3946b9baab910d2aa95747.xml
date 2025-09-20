@@ -331,12 +331,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b46e2de8c256406cb31fd1ef1850ad3c"
-      targetConnections="id-42bb11de1e444c14a299ac8b4bb50a39">
+      targetConnections="id-42bb11de1e444c14a299ac8b4bb50a39"
+      textPosition="1">
     <bounds
         x="852"
-        y="490"
-        width="157"
-        height="60"/>
+        y="477"
+        width="145"
+        height="86"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-7cbbd611c18b4339af7f32ea36d2cd0b.xml#id-7cbbd611c18b4339af7f32ea36d2cd0b"/>
