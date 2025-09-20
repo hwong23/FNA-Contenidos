@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FNA3.modernización"
+    id="id-1c3e4133e2d54b6b84d3487bf6362cfd">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9c696664800d4c149eeea4e6f9da607f"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="24"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-1cc02c00e30a446794a4932a3f4f2736.xml#id-1cc02c00e30a446794a4932a3f4f2736"/>
+  </children>
+</archimate:ArchimateDiagramModel>
