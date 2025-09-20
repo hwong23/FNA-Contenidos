@@ -74,7 +74,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-27cc77d70dda49bfa9947df4c1029dd1"
-        targetConnections="id-5f7cd9f4ba7c4327bab0e011a8a87427 id-6826d5faa67b4d95a840892899cdae61">
+        targetConnections="id-5f7cd9f4ba7c4327bab0e011a8a87427 id-6826d5faa67b4d95a840892899cdae61"
+        textPosition="1">
       <bounds
           x="504"
           y="36"
@@ -87,7 +88,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e888cb35b3194aefabebc6dce9c4b900"
-        targetConnections="id-da950144f9814be69d765508d798f864 id-ecb255faee7a48c4ba1ceffc0735112a">
+        targetConnections="id-da950144f9814be69d765508d798f864 id-ecb255faee7a48c4ba1ceffc0735112a"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6826d5faa67b4d95a840892899cdae61"
@@ -109,7 +111,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4f08653228cd4ff18f6318b09f25d674"
-        targetConnections="id-8e62e71e3321404eb4b358e5e6ccbdae id-6baa95107cd14c7582e71b6b0c92ecc0">
+        targetConnections="id-8e62e71e3321404eb4b358e5e6ccbdae id-6baa95107cd14c7582e71b6b0c92ecc0"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ecb255faee7a48c4ba1ceffc0735112a"
@@ -131,7 +134,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-07d99b75591842038f38dbe7c28c56c6"
-        targetConnections="id-3004218b79cf471cb443708cfe620c79">
+        targetConnections="id-3004218b79cf471cb443708cfe620c79"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6baa95107cd14c7582e71b6b0c92ecc0"
@@ -204,11 +208,12 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-18ce809b92a04d588c4feff0896d6849"
-        targetConnections="id-2627af8e71484c62bc407bd0e7c009e3">
+        targetConnections="id-2627af8e71484c62bc407bd0e7c009e3"
+        textPosition="1">
       <bounds
           x="24"
           y="36"
-          width="120"
+          width="145"
           height="85"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
