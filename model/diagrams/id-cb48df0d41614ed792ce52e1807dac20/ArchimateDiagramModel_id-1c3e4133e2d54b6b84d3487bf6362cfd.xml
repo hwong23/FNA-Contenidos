@@ -11,7 +11,67 @@
         x="12"
         y="24"
         width="400"
-        height="140"/>
+        height="469"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-81b5de2c020d44948b0fe908aac8d8a7">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-6086c4864f3946b9baab910d2aa95747.xml#id-6086c4864f3946b9baab910d2aa95747"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-5180c94356044d6f94a2e381bb734fde">
+      <bounds
+          x="12"
+          y="90"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-1bbbec7444934da1903ee4bf0d7c9e72.xml#id-1bbbec7444934da1903ee4bf0d7c9e72"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-3614e2595122447d9b25911b4858d033">
+      <bounds
+          x="131"
+          y="90"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-309076174fd14a3187ec2984cc0ce57d.xml#id-309076174fd14a3187ec2984cc0ce57d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-4d4bfc6fd5014998bf50fff4d24d00f4">
+      <bounds
+          x="131"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_8ef680ff-a863-4c39-a8b1-db245f15e6c7.xml#8ef680ff-a863-4c39-a8b1-db245f15e6c7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-70129d848413420592e9a3529abf8a4f">
+      <bounds
+          x="250"
+          y="90"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-f537a399a9ff4186bc295e1096084d85.xml#id-f537a399a9ff4186bc295e1096084d85"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-1cc02c00e30a446794a4932a3f4f2736.xml#id-1cc02c00e30a446794a4932a3f4f2736"/>
