@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC01. Información para Planeación Producto"
+    id="id-230b5f0248374c6181d0a2c55bdb93c3"
+    documentation="Gobierno. GER-ING. Contensión en la planeación de liberación HU&#xA;--mesa de ayuda excl. ING&#xD;&#xA;&#xA;* Estado de HU relevantes&#xD;&#xA;* Dependencias&#xD;&#xA;* Avace de HU&#xA;">
+  <properties
+      key="fecha"
+      value="23/oct/2023"/>
+</archimate:Goal>

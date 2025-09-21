@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC07. Repositorio de arquitectura"
+    id="id-bb125db6607e408cbf5f15d05c6e3692"
+    documentation="Arquitctura. Toma de decisiones. Distribución de información para planeación, desarrolo  y entregas.&#xA;&#xA;* Instalación del repositorio de arquitectura&#xA;* Canal de distribución de información de planeación&#xA;* Canal de distribución de información de desarrollo&#xA;* Canal de distribución de información de entrega&#xA;&#xA;&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>

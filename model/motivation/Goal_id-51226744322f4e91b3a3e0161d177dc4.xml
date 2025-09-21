@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC03. Gestión de entregas"
+    id="id-51226744322f4e91b3a3e0161d177dc4"
+    documentation="Arquitectura. Entregas. Problemas en el recibimiento de las entregas (dependencias)&#xA;&#xA;* Formalizar los artefactos de entrega requeridos para el recibimiento: plane de pruebas (STEF), aval funcional (COOMV), versión ejecutable (STEF)&#xA;* Oganizar dependencias, capacidad y programación de liberación&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>

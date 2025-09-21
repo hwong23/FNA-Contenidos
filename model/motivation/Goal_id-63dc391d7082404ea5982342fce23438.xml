@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC06. Distribución de trabajo (cargas, capacidad, líneas)"
+    id="id-63dc391d7082404ea5982342fce23438"
+    documentation="Ingeniería. Proceso. Definición de puntos de control de la carga/capacidad/líneas&#xA;&#xA;* PC01. Despliegues&#xA;* PC02. Avances en ejecución&#xA;&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>

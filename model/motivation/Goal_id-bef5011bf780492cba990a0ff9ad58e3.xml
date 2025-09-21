@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC05. Dependencia Técnica - Funcional"
+    id="id-bef5011bf780492cba990a0ff9ad58e3"
+    documentation="Gobierno. Afectaciones a la planeación funcional de entregas (mapa producto/entregas)&#xA;&#xA;* Separación de funciones planación-ejecución: producto, planifica la salida del producto; ingeniería, no&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>

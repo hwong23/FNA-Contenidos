@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC08. Plan de Pruebas (adm. config. datos)"
+    id="id-27b692bcd1e948288bb762d9f377b76b"
+    documentation="Arquitectura. Toma de decisiones. Soporte al proceso de QA (Vinculación, y posteriomente Ventas).&#xA;&#xA;### Situación&#xA;Acumulación de defectos de software detectados en QA. Debido a que el proceso de desarrollo omite las pruebas unitarias ocurre que los defectos de software (que no son funcionales) se detectan extemporáneos en el proceso de QA, lo que genera retrasos y reprocesos en el ciclo de producción.&#xA;&#xA;&#xA;&#xA;### Acciones requeridas&#xA;* Admin. configuración del plano de datos de Planes de Cfg. Exequiales&#xA;* Admin. configuración del plano de datos de Planes de Cfg. de Cúmulos&#xA;* Relación de elementos de arquitectura con HU&#xA;* Certificación técnica del producto&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>

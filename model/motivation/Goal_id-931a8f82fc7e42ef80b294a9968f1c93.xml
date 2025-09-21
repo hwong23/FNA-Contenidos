@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC04. Remediación proceso ING"
+    id="id-931a8f82fc7e42ef80b294a9968f1c93"
+    documentation="Ingeniería. Proceso. Afectaciones a la producción&#xA;&#xA;* Artefactos de salidas de cada proceso (LVT, ANL, DIS, DEV....)&#xA;&#xA;ANL01. Modelo negocio&#xA;ANL02. Estimación / Programación (planeación de producción)&#xA;ANL03. 'Dependencias' (relaciones entre ítems de trabajo)&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>
