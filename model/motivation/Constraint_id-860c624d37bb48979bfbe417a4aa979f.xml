@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONSTR04"
+    id="id-860c624d37bb48979bfbe417a4aa979f"
+    documentation="### Construcción&#xA;* No se tiene un versionamiento controlado y automatizado de la base de datos&#xA;* No se cuenta con integraciones para despliegues en DevOps que permitan mayor control y automatización. &#xA;* No se cuenta con repositorios del mismo proveedor que faciliten las automatizaciones (CI)&#xA;* Sobredependencia del Lider Técnico&#xA;* Débil gestión de la programación de las actividades de construcción (¿existe el dueño de la iteración?)&#xA;"/>

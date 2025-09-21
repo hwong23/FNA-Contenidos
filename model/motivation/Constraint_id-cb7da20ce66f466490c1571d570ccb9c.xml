@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONSTR01"
+    id="id-cb7da20ce66f466490c1571d570ccb9c"
+    documentation="### Levantamiento&#xA;* La mayoría de HU no tienen un anexo técnico resumen de las validaciones u objetos a modificar o crear&#xA;* El cambio del modelo de negocio del cliente genera que las HU no sean funcionales&#xA;"/>
