@@ -427,7 +427,7 @@
       id="id-e6ee5b8b0f3e4dec8c16f8378560f456">
     <bounds
         x="228"
-        y="420"
+        y="474"
         width="205"
         height="55"/>
     <archimateElement
@@ -450,8 +450,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-721d88ca3e65493a838efc5e6e1d5d95">
     <bounds
-        x="588"
-        y="420"
+        x="599"
+        y="474"
         width="205"
         height="55"/>
     <archimateElement
@@ -475,7 +475,7 @@
       id="id-98ba47599297401f908b6e9bccbd7929">
     <bounds
         x="48"
-        y="474"
+        y="528"
         width="205"
         height="55"/>
     <archimateElement
@@ -487,7 +487,7 @@
       id="id-4ef6f7addb864999af1d32b45a75cf00">
     <bounds
         x="228"
-        y="474"
+        y="582"
         width="205"
         height="55"/>
     <archimateElement
