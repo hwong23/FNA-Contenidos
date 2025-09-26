@@ -1,0 +1,24 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.205.2/containers/debian
+{
+	"customizations": {
+		"codespaces": {
+		"repositories": {
+			"hwong23/devocs-contd": {
+				"permissions": {
+					"issues": "write",
+					"actions": "write",
+					"contents": "write"
+				}
+			},
+			"hwong23/hwo-academicTempl": {
+				"permissions": {
+					"issues": "write",
+					"actions": "write",
+					"contents": "write"
+				}
+			}
+		}
+		}
+	}
+}
