@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de la Infraestructura Tecnológica"
+    id="id-676018cf94f9450dbb9091595e768dc9"
+    documentation="Aborda los problemas de flujo de trabajo y entrega de software.">
+  <properties
+      key="01n.codigo"/>
+</archimate:Capability>

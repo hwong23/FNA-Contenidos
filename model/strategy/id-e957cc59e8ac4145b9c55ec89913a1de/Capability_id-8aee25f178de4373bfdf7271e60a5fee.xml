@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de la Arquitectura Empresarial"
     id="id-8aee25f178de4373bfdf7271e60a5fee"
-    documentation="Aborda la fragmentación y subutilización de datos."/>
+    documentation="Aborda los riesgos técnicos del COBIS FNA.">
+  <properties
+      key="01n.codigo"/>
+</archimate:Capability>
