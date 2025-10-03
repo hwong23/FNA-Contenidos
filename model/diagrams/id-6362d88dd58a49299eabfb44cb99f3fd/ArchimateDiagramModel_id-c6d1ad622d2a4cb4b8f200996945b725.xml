@@ -3,17 +3,137 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diseño. Entorno Problemas Capacidades"
     id="id-c6d1ad622d2a4cb4b8f200996945b725"
-    documentation="# Areas de Negocio FNA&#xD;&#xA;&#xD;&#xA;|Tema|Relación de Áreas de Negocio FNA y Servicios SOA&#xD;&#xA;|----|-------------------------------------------|&#xD;&#xA;|Palabras clave|SOA, Áreas de Negocio, Procesos&#xD;&#xA;|Autor||&#xD;&#xA;|Fuente|Modelos de arquitectura FNA |&#xD;&#xA;|Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&amp;section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&amp;page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&amp;end&amp;base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&amp;section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&amp;page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&amp;end&amp;base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|&#xD;&#xA;|||&#xD;&#xA;&#xD;&#xA;En los modelos analizados (Anexo 2) no hay relación de las áreas de negocio del FNA con otros elementos de la vista de segmento. Los modelos no registran la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA.&#xD;&#xA;&#xD;&#xA;La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de Legalización.&#xD;&#xA;&#xD;&#xA;    Fuente: ae_fna.archimate, ae_fna_as_is.archimate, ae_fna_tobe.archimate.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;![Vista][embedView]&#xD;&#xA;&#xD;&#xA;Las áreas de negocio del FNA que se encuentran modeladas están en el Anexo 1.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;## Anexo 1. Áreas FNA Modeladas&#xD;&#xA;|Name|Type|&#xD;&#xA;|--------|--------|&#xD;&#xA;|1\. Cargue de insumo|business-function|&#xD;&#xA;|10\. Toma de Firmas Notariales|business-function|&#xD;&#xA;|11\. Validar estado Documental para Desembolso|business-function|&#xD;&#xA;|12\. Seguimiento de Registro|business-function|&#xD;&#xA;|13\. Consolidar carpeta Legal|business-function|&#xD;&#xA;|2\. Consulta de Documento|business-function|&#xD;&#xA;|3\. Estudio Preliminar Títulos|business-function|&#xD;&#xA;|4\. Análisis Previo - Análisis de capacidad de pagos|business-function|&#xD;&#xA;|5\. Consecución de Documentos|business-function|&#xD;&#xA;|6\. Recibir documentos|business-function|&#xD;&#xA;|7\. Avalúo Comercial|business-function|&#xD;&#xA;|8\. Estudio de Títulos – Imprimible|business-function|&#xD;&#xA;|9\. Elaboración de Minuta y Reparto Notarial|business-function|&#xD;&#xA;|Aplicacion de Negocio|business-function|&#xD;&#xA;|Aplicacion de Negocio (copy)|business-function|&#xD;&#xA;|Business Function|business-function|&#xD;&#xA;|FN1. Vicepresidencia de Crédito|business-function|&#xD;&#xA;|FN2. Vicepresidencia de Operaciones.|business-function|&#xD;&#xA;|Otras Áreas FNA|business-function|&#xD;&#xA;|Servicio de Negocio|business-function|&#xD;&#xA;|Servicio de Negocio (copy)|business-function|&#xD;&#xA;|Versión Aplicación|business-function|&#xD;&#xA;|Versión Aplicación (copy)|business-function|&#xD;&#xA;|Versiones Del Servicio|business-function|&#xD;&#xA;|Versiones Del Servicio (copy)|business-function|&#xD;&#xA;&#xD;&#xA;## Anexo 2. Modelos analizados&#xD;&#xA;* 2015-06-01 modelo arquitectura togaf - fna banca digital v6.archimate&#xD;&#xA;* aa002 - cobis ahorro voluntario.archimate&#xD;&#xA;* aa003-cobis cesantias.archimate&#xD;&#xA;* aa005-cobis cartera.archimate&#xD;&#xA;* aa006-cobis tramites.archimate&#xD;&#xA;* aa015-cobis clientes.archimate&#xD;&#xA;* aa020-banca virtual.archimate&#xD;&#xA;* aa021-fondo en linea.archimate&#xD;&#xA;* aa074-fondo en linea personal.archimate&#xD;&#xA;* aa091-cobis cx.archimate&#xD;&#xA;* ae_fna.archimate&#xD;&#xA;* ae_fna_as_is.archimate&#xD;&#xA;* ae_fna_tobe.archimate&#xD;&#xA;* arquitectura banca digital v4.archimate&#xD;&#xA;* arquitectura fna.archimate&#xD;&#xA;* arquitectura movil_v1.archimate&#xD;&#xA;* arquitectura movil_v2.archimate&#xD;&#xA;* fna_proyectos v2.0.archimate&#xD;&#xA;* information_architecture_bi_ba_md_archixml.archimate&#xD;&#xA;* ivr.archimate&#xD;&#xA;* pa0003-pki.archimate&#xD;&#xA;* workmanager.archimate&#xD;&#xA;&#xD;&#xA;[embedView]: FNA_Arquitectura-Areas%20de%20Negocio%20FNA.png&#xD;&#xA;">
+    documentation="# Problemas Desempeño Empresarial&#xD;&#xA;&#xD;&#xA;|Tema|Relación de Áreas de Negocio FNA y Servicios SOA&#xD;&#xA;|----|-------------------------------------------|&#xD;&#xA;|Palabras clave|SOA, Áreas de Negocio, Procesos&#xD;&#xA;|Autor||&#xD;&#xA;|Fuente|Modelos de arquitectura FNA |&#xD;&#xA;|Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&amp;section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&amp;page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&amp;end&amp;base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&amp;section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&amp;page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&amp;end&amp;base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|&#xD;&#xA;|||&#xD;&#xA;&#xD;&#xA;En Fondo Nacional del Ahorro (FNA, Colombia) existen problemas que restringen su desempeño empresarial, con impacto en sus capacidades de digitalización efectiva (apalancamiento en tecnología) y la optimización de sus servicios.&#xA;&#xA;Los problemas clave que limitan el desempeño empresarial del FNA incluyen*:&#xA;&#xA;1. Fragmentación&#xA;1. Innovación&#xA;1. (uso de) Datos&#xA;1. Flujos de trabajo&#xA;1. Cultura reactiva&#xA;1. Alineación (y gobierno)&#xA;&#xA;&#xA;(*) e-Service, Análisis Entorno, Análisis Brechas, Refinamiento Core&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ce2c1f4daf094d3ebc0ba107031db6dd">
     <bounds
-        x="93"
-        y="90"
-        width="120"
+        x="12"
+        y="84"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
         href="Driver_id-94f2d44daabd49c88fbf32e75d0208d4.xml#id-94f2d44daabd49c88fbf32e75d0208d4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b7022e79bc884c658899432be47420d6">
+    <bounds
+        x="12"
+        y="24"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-90265ba9ac53496d85e5ac6bcdf8a153.xml#id-90265ba9ac53496d85e5ac6bcdf8a153"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-851e396bdf20426a8c833a818ab38e6c">
+    <bounds
+        x="12"
+        y="144"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-53c0c4a41d574af78c5c0a6b4de8ce7f.xml#id-53c0c4a41d574af78c5c0a6b4de8ce7f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49a8373f584548218c092eaeaf3985c0">
+    <bounds
+        x="12"
+        y="204"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-146318fccdb1474eb3f7ddef3421d9b7.xml#id-146318fccdb1474eb3f7ddef3421d9b7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f0a0a77271d84a8bbc151feeeac6ecd8">
+    <bounds
+        x="12"
+        y="264"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-6a71ca8abc6945619fc0d9716aa5a731.xml#id-6a71ca8abc6945619fc0d9716aa5a731"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62dce2726d5b4b73bb86e510e63d3632">
+    <bounds
+        x="12"
+        y="324"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-02bbbee841a5445ab1c48a972ec9b312.xml#id-02bbbee841a5445ab1c48a972ec9b312"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3b11b2244f2b4737a40143cc9d810760">
+    <bounds
+        x="276"
+        y="78"
+        width="146"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-42d99db2f25a432ebaad669c8758f08a.xml#id-42d99db2f25a432ebaad669c8758f08a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2535ae92a3704512ba1bbec2c170f52e">
+    <bounds
+        x="276"
+        y="140"
+        width="146"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-1de531d744f64e959f448959962cf986.xml#id-1de531d744f64e959f448959962cf986"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b06d4b00a64e481e8a85e1bce4924844">
+    <bounds
+        x="276"
+        y="206"
+        width="146"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-a3bc836e972f4710a04e4d061f3049cd.xml#id-a3bc836e972f4710a04e4d061f3049cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d608ec9ae11446c49dacf96682232754">
+    <bounds
+        x="276"
+        y="268"
+        width="146"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-ebc3b9b2e5e7451a8f62e7546466d19a.xml#id-ebc3b9b2e5e7451a8f62e7546466d19a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e388759a687646468bb559107bd7172a">
+    <bounds
+        x="276"
+        y="336"
+        width="146"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-8aee25f178de4373bfdf7271e60a5fee.xml#id-8aee25f178de4373bfdf7271e60a5fee"/>
   </children>
 </archimate:ArchimateDiagramModel>

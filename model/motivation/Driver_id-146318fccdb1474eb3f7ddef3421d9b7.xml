@@ -1,8 +1,8 @@
-<archimate:Folder
+<archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motivadores"
-    id="id-559c71bad6d341c0a9117949410737c2">
+    name="Flujos de trabajo"
+    id="id-146318fccdb1474eb3f7ddef3421d9b7">
   <properties
       key="01n.codigo"
       value="DRV01"/>
-</archimate:Folder>
+</archimate:Driver>
