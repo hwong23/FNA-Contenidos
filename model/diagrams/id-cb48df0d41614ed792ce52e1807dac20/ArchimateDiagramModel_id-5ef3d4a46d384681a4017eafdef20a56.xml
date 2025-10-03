@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="diseño arqneg"
+    id="id-5ef3d4a46d384681a4017eafdef20a56">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d0ac6c12ace74ec7bb67d78ca8bd9df3"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="24"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-5b5ec797fa8244bfb2d115a1414c01b4">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c6d1ad622d2a4cb4b8f200996945b725.xml#id-c6d1ad622d2a4cb4b8f200996945b725"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-cc68bade05454a36908262c1236af119.xml#id-cc68bade05454a36908262c1236af119"/>
+  </children>
+</archimate:ArchimateDiagramModel>
