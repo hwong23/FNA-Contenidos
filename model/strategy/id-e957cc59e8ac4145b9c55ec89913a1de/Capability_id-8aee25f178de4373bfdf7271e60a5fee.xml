@@ -4,5 +4,6 @@
     id="id-8aee25f178de4373bfdf7271e60a5fee"
     documentation="Aborda los riesgos técnicos del COBIS FNA.">
   <properties
-      key="01n.codigo"/>
+      key="01n.codigo"
+      value="CAPC6"/>
 </archimate:Capability>

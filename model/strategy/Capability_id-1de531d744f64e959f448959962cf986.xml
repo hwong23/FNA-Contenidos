@@ -4,5 +4,6 @@
     id="id-1de531d744f64e959f448959962cf986"
     documentation="Aborda la cultura reactiva.">
   <properties
-      key="01n.codigo"/>
+      key="01n.codigo"
+      value="CAPC2"/>
 </archimate:Capability>

@@ -4,5 +4,6 @@
     id="id-ebc3b9b2e5e7451a8f62e7546466d19a"
     documentation="Aborda la fragmentación y subutilización —falta de información.">
   <properties
-      key="01n.codigo"/>
+      key="01n.codigo"
+      value="CAPC4"/>
 </archimate:Capability>

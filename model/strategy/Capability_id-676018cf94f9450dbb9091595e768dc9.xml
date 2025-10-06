@@ -4,5 +4,6 @@
     id="id-676018cf94f9450dbb9091595e768dc9"
     documentation="Aborda los problemas de flujo de trabajo y entrega de software.">
   <properties
-      key="01n.codigo"/>
+      key="01n.codigo"
+      value="CAPC8"/>
 </archimate:Capability>

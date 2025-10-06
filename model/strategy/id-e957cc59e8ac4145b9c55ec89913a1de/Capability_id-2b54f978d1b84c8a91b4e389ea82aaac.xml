@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de la Experiencia del Cliente"
-    id="id-2b54f978d1b84c8a91b4e389ea82aaac"/>
+    id="id-2b54f978d1b84c8a91b4e389ea82aaac">
+  <properties
+      key="01n.codigo"
+      value="CAPC9"/>
+</archimate:Capability>

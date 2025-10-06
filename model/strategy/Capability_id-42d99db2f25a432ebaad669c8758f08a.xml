@@ -4,5 +4,6 @@
     id="id-42d99db2f25a432ebaad669c8758f08a"
     documentation="Aborda la debilidad en innovación.">
   <properties
-      key="01n.codigo"/>
+      key="01n.codigo"
+      value="CAPC1"/>
 </archimate:Capability>
