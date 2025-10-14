@@ -27,7 +27,7 @@
           href="AssociationRelationship_id-ef003187645d4160b6719a510bf4fac8.xml#id-ef003187645d4160b6719a510bf4fac8"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="420"
         y="180"
         width="193"
         height="385"/>
@@ -117,10 +117,10 @@
           endX="-192"
           endY="-36"/>
       <bendpoints
-          startX="210"
-          startY="-18"
-          endX="-180"
-          endY="-36"/>
+          startX="186"
+          startY="-24"
+          endX="-216"
+          endY="-24"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-17f0da4caa1f4d4f95ade9408ad84cf7.xml#id-17f0da4caa1f4d4f95ade9408ad84cf7"/>
