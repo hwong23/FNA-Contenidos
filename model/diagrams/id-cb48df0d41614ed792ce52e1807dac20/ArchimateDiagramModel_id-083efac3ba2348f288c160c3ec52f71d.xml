@@ -1,20 +1,20 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="diseño arqneg"
-    id="id-5ef3d4a46d384681a4017eafdef20a56">
+    name="FNA3.ConceptoTecnico"
+    id="id-083efac3ba2348f288c160c3ec52f71d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d0ac6c12ace74ec7bb67d78ca8bd9df3"
+      id="id-d8d5a250d26345b5903bdd348bd2b757"
       textAlignment="1">
     <bounds
-        x="12"
+        x="24"
         y="24"
         width="400"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-5b5ec797fa8244bfb2d115a1414c01b4">
+        id="id-478fe1aac5b84aefb4e9866d615ae786">
       <bounds
           x="24"
           y="36"
@@ -22,10 +22,17 @@
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-c6d1ad622d2a4cb4b8f200996945b725.xml#id-c6d1ad622d2a4cb4b8f200996945b725"/>
+          href="ArchimateDiagramModel_id-e14cc2dff8be4f338004d9411712933f.xml#id-e14cc2dff8be4f338004d9411712933f"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-cc68bade05454a36908262c1236af119.xml#id-cc68bade05454a36908262c1236af119"/>
+        href="Grouping_id-f91c9a898342420b8f7cc0ae1e3cabdc.xml#id-f91c9a898342420b8f7cc0ae1e3cabdc"/>
   </children>
+  <properties
+      key="alias"
+      value="conctec"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"/>
 </archimate:ArchimateDiagramModel>
