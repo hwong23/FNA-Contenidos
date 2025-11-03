@@ -673,4 +673,13 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-5b9197783c13430f8c64caf0abfc9822.xml#id-5b9197783c13430f8c64caf0abfc9822"/>
   </children>
+  <properties
+      key="alias"
+      value="conceptovw"/>
+  <properties
+      key="devdoc"
+      value="03.conceptovw.md"/>
+  <properties
+      key="titulo"
+      value="Modelo de Contenido FNA. Concepto Técnico"/>
 </archimate:ArchimateDiagramModel>
