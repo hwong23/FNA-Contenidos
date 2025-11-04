@@ -268,7 +268,7 @@
         targetConnections="id-c398366349154c6184f41f1497ad5df3 id-6528db7555734cdcaca39876bcae8d31">
       <bounds
           x="12"
-          y="36"
+          y="96"
           width="181"
           height="55"/>
       <archimateElement
@@ -281,7 +281,7 @@
         targetConnections="id-45ea1c4fe7c440a8917fd3ee8c745da4 id-21a23ed7dac64f54a0060f63376be2d0">
       <bounds
           x="12"
-          y="96"
+          y="36"
           width="181"
           height="55"/>
       <archimateElement
