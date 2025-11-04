@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CnoceptoTecnico.p1. Ejercicio"
-    id="id-55538285a1774612b302dd01ef466643">
+    id="id-55538285a1774612b302dd01ef466643"
+    documentation="Primera verisión del concepto técnico #1. Finanzas Abiertas. versión 0.1.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-d7e9b92efc3c4f72bf51520cba045f94"
