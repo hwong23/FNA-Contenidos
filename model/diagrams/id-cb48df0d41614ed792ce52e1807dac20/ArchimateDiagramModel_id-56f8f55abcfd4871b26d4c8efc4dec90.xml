@@ -11,4 +11,13 @@
   <properties
       key="titulo"
       value="Información del Documento"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
