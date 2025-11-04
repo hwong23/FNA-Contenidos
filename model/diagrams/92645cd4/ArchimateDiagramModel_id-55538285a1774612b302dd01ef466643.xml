@@ -385,4 +385,7 @@
   <properties
       key="titulo"
       value="Concepto Técnico Finanzas Abiertas FNA"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-fila-md"/>
 </archimate:ArchimateDiagramModel>
