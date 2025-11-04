@@ -81,5 +81,6 @@
   <properties
       key="devdoc"/>
   <properties
-      key="titulo"/>
+      key="titulo"
+      value="Concepto Técnico del FNA"/>
 </archimate:ArchimateDiagramModel>
