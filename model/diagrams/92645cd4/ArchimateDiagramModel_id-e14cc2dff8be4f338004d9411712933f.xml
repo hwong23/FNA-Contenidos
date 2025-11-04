@@ -412,8 +412,8 @@
           href="AssociationRelationship_id-40867d8fffa5473699c0ee88b74c7027.xml#id-40867d8fffa5473699c0ee88b74c7027"/>
     </sourceConnections>
     <bounds
-        x="924"
-        y="708"
+        x="948"
+        y="528"
         width="720"
         height="468"/>
     <children
@@ -618,7 +618,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="708"
+        y="528"
         width="457"
         height="168"/>
     <children
