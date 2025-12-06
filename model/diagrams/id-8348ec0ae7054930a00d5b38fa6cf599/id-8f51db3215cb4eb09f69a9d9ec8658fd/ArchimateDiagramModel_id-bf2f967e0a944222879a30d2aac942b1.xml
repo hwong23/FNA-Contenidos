@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vulnerabilidades"
     id="id-bf2f967e0a944222879a30d2aac942b1"
-    documentation="### Revisión del Modelo de Contenidos&#xA;Para modelar el concepto de vulnerabilidades (entendida como amenaza/riesgo) en ArchiMate, este se traduce mejor como una Evaluación (Assessment) que Motiva un Objetivo (Goal) y genera Requerimientos (Requirements).&#xA;&#xA;">
+    documentation="### Revisión del Modelo de Contenidos&#xA;Para modelar el concepto de vulnerabilidades (entendida como amenaza/riesgo) en ArchiMate, este se traduce mejor como una Evaluación (Assessment) que Motiva un Objetivo (Goal) y genera Requerimientos (Requirements).&#xA;&#xA;### Esquema del Modelo de Vulnerabilidades&#xA;[Principle: Políticas de Seguridad]&#xA;    |-- «Constraint» -- [Risk: Vulnerabilidad]&#xA;        |-- «Associated with» -- [Application Component: Aplicación/Sistema de Información]&#xA;        |   |&#xA;        |   |-- «Has property» -- [Measure: Volumen de Vulnerabilidad]&#xA;        |&#xA;        |-- «Mitigated by» -- [Requirement: Requerimiento de Mitigación]&#xA;            |&#xA;            |-- «Realized by» -- [Work Package: Plan de Acción (PDA)]&#xA;                |&#xA;                |-- «Assigned to» -- [Role: Encargado]&#xA;&#xA;&#xA;### Flujo en el ADM&#xA;Esta estructura sigue perfectamente el proceso de la Fase de Requerimientos y la Fase Preliminar de TOGAF, donde los Goals y Principles de seguridad (Constraints) guían el desarrollo de los Requirements de arquitectura que se traducirán en Work Packages (PDA) en la Fase E/F.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1bac338e51b44510905d0d86a33b97fa"

@@ -1,7 +1,8 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vulnerabilidad"
-    id="id-7ed21664260b4a16b5e4797077f5a0e7">
+    id="id-7ed21664260b4a16b5e4797077f5a0e7"
+    documentation="Vulnerabilidad como Assessment: Una vulnerabilidad es el resultado de una evaluación de seguridad (un análisis). El elemento Assessment en ArchiMate se define como el resultado de analizar la situación actual del stakeholder (en este caso, la seguridad), lo cual se ajusta perfectamente a la naturaleza de un hallazgo de auditoría de vulnerabilidades.&#xA;">
   <properties
       key="vulVolumen"/>
   <properties
