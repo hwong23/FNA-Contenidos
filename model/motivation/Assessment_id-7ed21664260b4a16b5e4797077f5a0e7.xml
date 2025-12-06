@@ -1,4 +1,9 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vulnerabilidad"
-    id="id-7ed21664260b4a16b5e4797077f5a0e7"/>
+    id="id-7ed21664260b4a16b5e4797077f5a0e7">
+  <properties
+      key="vulVolumen"/>
+  <properties
+      key="vulTipo"/>
+</archimate:Assessment>
