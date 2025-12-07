@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afecta"
+    id="id-93930004cec34c3db30c7e1534e015c1">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-7ed21664260b4a16b5e4797077f5a0e7.xml#id-7ed21664260b4a16b5e4797077f5a0e7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-367a7aea842640e5b0e7a24b71db6527.xml#id-367a7aea842640e5b0e7a24b71db6527"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="motiva"
+    id="id-5ee6a6f6e7a543ed98ad19672d1b693e">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-7ed21664260b4a16b5e4797077f5a0e7.xml#id-7ed21664260b4a16b5e4797077f5a0e7"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-e52ed1b9ebc347d1aa19caac3dec7736.xml#id-e52ed1b9ebc347d1aa19caac3dec7736"/>
+</archimate:InfluenceRelationship>
