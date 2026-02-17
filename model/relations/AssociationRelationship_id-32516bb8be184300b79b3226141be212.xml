@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="genera"
+    id="id-32516bb8be184300b79b3226141be212">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-e52ed1b9ebc347d1aa19caac3dec7736.xml#id-e52ed1b9ebc347d1aa19caac3dec7736"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-0b9b00d6e0304f9ca8d46fdb51f9c5d8.xml#id-0b9b00d6e0304f9ca8d46fdb51f9c5d8"/>
+</archimate:AssociationRelationship>

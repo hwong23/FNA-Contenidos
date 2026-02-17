@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mitigado"
+    id="id-a27affde2a50449f99a0e491c1a4c0d0">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-7ed21664260b4a16b5e4797077f5a0e7.xml#id-7ed21664260b4a16b5e4797077f5a0e7"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-0b9b00d6e0304f9ca8d46fdb51f9c5d8.xml#id-0b9b00d6e0304f9ca8d46fdb51f9c5d8"/>
+</archimate:AssociationRelationship>
