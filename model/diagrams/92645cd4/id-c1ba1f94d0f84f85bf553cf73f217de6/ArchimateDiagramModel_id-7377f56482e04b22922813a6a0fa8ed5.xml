@@ -111,7 +111,7 @@
     <bounds
         x="468"
         y="264"
-        width="181"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -124,7 +124,7 @@
     <bounds
         x="468"
         y="324"
-        width="181"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -137,7 +137,7 @@
     <bounds
         x="468"
         y="384"
-        width="181"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -150,7 +150,7 @@
     <bounds
         x="468"
         y="444"
-        width="181"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -163,7 +163,7 @@
     <bounds
         x="468"
         y="504"
-        width="181"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
