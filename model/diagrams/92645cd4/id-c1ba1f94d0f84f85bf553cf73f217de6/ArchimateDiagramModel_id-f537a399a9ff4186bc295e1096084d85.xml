@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gobierno SOA. 6n. Comité"
-    id="id-f537a399a9ff4186bc295e1096084d85">
+    id="id-f537a399a9ff4186bc295e1096084d85"
+    documentation="Los roles y responsabilidades son las siguientes:&#xD;&#xA;&#xD;&#xA;Arquitectos&#xD;&#xA;&#x9;Asegurar la alineación de las soluciones con la arquitectura empresarial de la Entidad&#xD;&#xA;&#x9;Validar el cumplimiento de estándares y lineamientos tecnológicos&#xD;&#xA;&#x9;Identificar riesgos técnicos y deuda técnica&#xD;&#xA;&#x9;Documentar las decisiones arquitectónicas&#xD;&#xA;&#x9;Validar que lo construido cumpla con la arquitectura aprobada&#xD;&#xA;&#x9;Garantizar la orquestación de procesos&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-545c60ce9b7949b7b326351243172ab3">

@@ -18,7 +18,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="24"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -39,7 +39,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="96"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -97,7 +97,7 @@
     </sourceConnections>
     <bounds
         x="228"
-        y="24"
+        y="168"
         width="120"
         height="487"/>
     <archimateElement
@@ -110,8 +110,8 @@
       targetConnections="1332e6ce-900a-429c-bb81-60ed28234278">
     <bounds
         x="468"
-        y="120"
-        width="181"
+        y="264"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -123,8 +123,8 @@
       targetConnections="eb918b8c-43d3-4c71-aefa-a806474ae12f">
     <bounds
         x="468"
-        y="180"
-        width="181"
+        y="324"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -136,8 +136,8 @@
       targetConnections="49577eb3-7d3d-41e6-b7ef-78b12e3480e4">
     <bounds
         x="468"
-        y="240"
-        width="181"
+        y="384"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -149,8 +149,8 @@
       targetConnections="914324a5-8db8-4218-b7f9-2dbd4ba0f6db">
     <bounds
         x="468"
-        y="300"
-        width="181"
+        y="444"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -162,11 +162,22 @@
       targetConnections="c6b04d35-e310-47d9-b01a-57593c567113">
     <bounds
         x="468"
-        y="360"
-        width="181"
+        y="504"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_ba9777c2-3194-4ba1-abf1-0aaa4372b60c.xml#ba9777c2-3194-4ba1-abf1-0aaa4372b60c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-152a441e43b7446795ea22eee819a84c"
+      textAlignment="1"
+      content="Modelo de Gobierno SOA&#xD;&#xA;Adaptación FNA. 2023&#xD;&#xA;&#xD;&#xA;Funciones y responsabilidades gobierno SOA del FNA de la oficina de arquitectura FNA.&#xD;&#xA;&#xD;&#xA;versión 0.4&#xD;&#xA;">
+    <bounds
+        x="24"
+        y="12"
+        width="229"
+        height="132"/>
   </children>
 </archimate:ArchimateDiagramModel>
