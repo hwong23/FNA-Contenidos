@@ -340,16 +340,16 @@
     <bounds
         x="710"
         y="612"
-        width="240"
+        width="274"
         height="468"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-30cc74e8f555444abbefaddd93cb2f87"
         targetConnections="id-5b0694f8b5944a75817c497b99c71a07">
       <bounds
-          x="36"
+          x="24"
           y="36"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -360,9 +360,9 @@
         id="id-1af688a520494a77a6a93330cb70abc8"
         targetConnections="id-b6021fc6add640d3aa47ebac065866ec">
       <bounds
-          x="36"
+          x="24"
           y="96"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -373,9 +373,9 @@
         id="id-00961e92f67c416289e098ae235dd0a9"
         targetConnections="id-e61deee118c04faab15e81a820e5bffc">
       <bounds
-          x="36"
+          x="24"
           y="156"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -386,9 +386,9 @@
         id="id-83e2520de7ea428bad28ef981bcce502"
         targetConnections="id-4e804324ebce43d48455e64472fd07e7">
       <bounds
-          x="36"
+          x="24"
           y="216"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -399,9 +399,9 @@
         id="id-6e21b452e665451f9c567c85828dd8fe"
         targetConnections="id-8c9c2fe0fe7344f2a390edcc38cfa5f8">
       <bounds
-          x="36"
+          x="24"
           y="276"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -412,9 +412,9 @@
         id="id-3ebdf1d56fc74ffdbb1621c951f874b4"
         targetConnections="id-439724a4aed8491695eabf4b39a38126">
       <bounds
-          x="36"
+          x="24"
           y="336"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -425,9 +425,9 @@
         id="id-c308b8e59b724c43aea98f05ef7726e2"
         targetConnections="id-d4de7db0731a4829b8394e46f167d996">
       <bounds
-          x="36"
+          x="24"
           y="396"
-          width="168"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -482,7 +482,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-59c06c2e06304c5e823a9f36198b91c0"
       textAlignment="1"
-      content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Colaboración Oficina y Gobierno. Recursos y Herramientas de Gestión del Riesgo de Arquitectura del FNA.&#xA;&#xA;versión 0.7&#xA;">
+      content="Modelo de Gobierno SOA&#xA;Adaptación FNA. 2023&#xA;&#xA;Colaboración Oficina y Gobierno. Recursos y Herramientas de Gestión del Riesgo de Arquitectura del FNA.&#xA;&#xA;versión 0.8&#xA;">
     <bounds
         y="12"
         width="229"
