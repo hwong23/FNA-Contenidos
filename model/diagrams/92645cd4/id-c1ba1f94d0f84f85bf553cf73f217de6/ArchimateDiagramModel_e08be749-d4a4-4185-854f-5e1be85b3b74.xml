@@ -229,7 +229,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="511d81bf-7f18-4a26-a0bb-5df3e0d7e5c6"
       textAlignment="1"
-      content="Funciones operativas de la Oficina de Arquitectura del FNA.&#xA;&#xA;Operaciones solictadas a la oficina.&#xA;Version 0.6&#xA;">
+      content="Funciones operativas de la Oficina de Arquitectura del FNA.&#xA;&#xA;Actores involucrados y funciones solictadas a la oficina.&#xA;&#xA;Version 0.6&#xA;">
     <bounds
         x="-95"
         y="24"
