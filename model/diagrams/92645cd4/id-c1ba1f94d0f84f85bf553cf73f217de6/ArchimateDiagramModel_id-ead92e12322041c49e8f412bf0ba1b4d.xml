@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gobierno SOA. n2. Modelo 0.6"
-    id="id-ead92e12322041c49e8f412bf0ba1b4d">
+    id="id-ead92e12322041c49e8f412bf0ba1b4d"
+    documentation="El modelo operativo del equipo de arquitectura resume el flujo de trabajo necesario para responder a los requerimientos de arquitectura causados por los proyectos y la transformación de TI. Primero, los requerimientos de arquitectura son analizados mediante la estructura del concepto técnico, y contrastados con los lineamientos de arquitectura FNA, para finalmente llevarlos a una pila de trabajo perteneciente a las líneas de arquitectura de solución en donde serán gestionaros e implementarlos.&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-8bd0d794eb4f4f888e67fb5f283052ba"
